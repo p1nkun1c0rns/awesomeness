@@ -16,7 +16,7 @@
 
 ## DevShit 💩
 
-- [vscodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode
+- [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode
 - [flipt.dev](https://flipt.dev) - A feature flag solution that runs in your existing infrastructure
 - [Stein](https://github.com/SteinHQ/Stein) - Ship fast and manage your data with ease. Connect to Google Sheets.
 - [gatling.io](https://gatling.io/) - The best developer tool to load test your web applications
