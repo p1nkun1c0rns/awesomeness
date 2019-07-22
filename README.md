@@ -5,6 +5,9 @@
 - [remove.bg](https://remove.bg) - Remove Image Background - 100% automatically – in 5 seconds – without a single click
 - [ipinfo.io](https://ipinfo.io) - With IPinfo, you can pinpoint your users’ locations, customize their experiences, prevent fraud, ensure compliance, and so much more
 - [explainshell.com](https://explainshell.com) - write down a command-line to see the help text that matches each argument
+- [asciinema.org](https://asciinema.org) - Record and share your terminal sessions, the right way
+- [uptime.is](https://uptime.is/) - SLA calculations assume a requirement of continuous uptime
+- [glitch.com](https://glitch.com) - Glitch is the friendly community where everyone builds the web
 
 ## Testframeworks
 
@@ -23,10 +26,12 @@
 - [httpie](https://httpie.org/) - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more
 - [Fire](https://fire.fundersclub.com/#SetUp) - Mail2Github
 - [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kuberntes cluster management and application delivery.
+- [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit
 
 ## Productivity
 
 - [Boostnote](https://Boostnote.io) - Boost Happiness, Productivity, and Creativity
+- [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 
 ## Sec
 
@@ -39,3 +44,5 @@
 - [Tufin](https://www.tufin.com/) - Tufin is a security policy management company specializing in the automation of security policy changes across hybrid platforms
 - [ngrok.com](https://ngrok.com) - Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall.
 - [mr2](https://github.com/txthinking/mr2/) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP. Keep it simple, stupid.
+- [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing
+- [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark
