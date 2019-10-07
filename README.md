@@ -19,6 +19,7 @@
 
 ## DevShit 💩
 
+- [GitHub-CodeOwners](https://help.github.com/en/articles/about-code-owners) - You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 - [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode
 - [flipt.dev](https://flipt.dev) - A feature flag solution that runs in your existing infrastructure
 - [Stein](https://github.com/SteinHQ/Stein) - Ship fast and manage your data with ease. Connect to Google Sheets.
@@ -27,6 +28,7 @@
 - [Fire](https://fire.fundersclub.com/#SetUp) - Mail2Github
 - [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kuberntes cluster management and application delivery.
 - [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit
+- [Git Subtree Merging](https://git-scm.com/book/de/v1/Git-Tools-Subtree-Merging) - The idea of the subtree merge is that you have two projects, and one of the projects maps to a subdirectory of the other one and vice versa.
 
 ## Productivity
 
@@ -36,6 +38,7 @@
 ## Sec
 
 - [h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply
+- [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
 - [secalerts.co](https://secalerts.co) - Receive a free weekly email with a round-up of all vulnerabilities that affect your software as well as relevant security news and articles.
 
@@ -44,5 +47,6 @@
 - [Tufin](https://www.tufin.com/) - Tufin is a security policy management company specializing in the automation of security policy changes across hybrid platforms
 - [ngrok.com](https://ngrok.com) - Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall.
 - [mr2](https://github.com/txthinking/mr2/) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP. Keep it simple, stupid.
+- [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark
