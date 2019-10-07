@@ -13,10 +13,6 @@
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions
 
-## Container
-
-- [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress
-
 ## DevShit 💩
 
 - [GitHub-CodeOwners](https://help.github.com/en/articles/about-code-owners) - You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
@@ -26,14 +22,22 @@
 - [gatling.io](https://gatling.io/) - The best developer tool to load test your web applications
 - [httpie](https://httpie.org/) - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more
 - [Fire](https://fire.fundersclub.com/#SetUp) - Mail2Github
-- [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kuberntes cluster management and application delivery.
+- [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 - [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit
 - [Git Subtree Merging](https://git-scm.com/book/de/v1/Git-Tools-Subtree-Merging) - The idea of the subtree merge is that you have two projects, and one of the projects maps to a subdirectory of the other one and vice versa.
+
+## Containers
+
+### Kubernetes
+
+- [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress
+- [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development
 
 ## Productivity
 
 - [Boostnote](https://Boostnote.io) - Boost Happiness, Productivity, and Creativity
 - [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+- [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/) - Converts your HTML clipboard to Markdown
 
 ## Sec
 
@@ -41,6 +45,7 @@
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
 - [secalerts.co](https://secalerts.co) - Receive a free weekly email with a round-up of all vulnerabilities that affect your software as well as relevant security news and articles.
+- [Bitwarden](https://bitwarden.com) - Open Source Password Management Solutions
 
 ## Networking
 
