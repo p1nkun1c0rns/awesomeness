@@ -22,7 +22,6 @@
 - [gatling.io](https://gatling.io/) - The best developer tool to load test your web applications
 - [httpie](https://httpie.org/) - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more
 - [Fire](https://fire.fundersclub.com/#SetUp) - Mail2Github
-- [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 - [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit
 - [Git Subtree Merging](https://git-scm.com/book/de/v1/Git-Tools-Subtree-Merging) - The idea of the subtree merge is that you have two projects, and one of the projects maps to a subdirectory of the other one and vice versa.
 
@@ -32,6 +31,7 @@
 
 - [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development
+- [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 
 ## Productivity
 
