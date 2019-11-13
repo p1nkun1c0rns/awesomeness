@@ -8,6 +8,7 @@
 - [asciinema.org](https://asciinema.org) - Record and share your terminal sessions, the right way
 - [uptime.is](https://uptime.is/) - SLA calculations assume a requirement of continuous uptime
 - [glitch.com](https://glitch.com) - Glitch is the friendly community where everyone builds the web
+- [LoremFlickr](https://loremflickr.com/) - Free placeholder images
 
 ## Testframeworks
 
@@ -24,6 +25,13 @@
 - [Fire](https://fire.fundersclub.com/#SetUp) - Mail2Github
 - [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit
 - [Git Subtree Merging](https://git-scm.com/book/de/v1/Git-Tools-Subtree-Merging) - The idea of the subtree merge is that you have two projects, and one of the projects maps to a subdirectory of the other one and vice versa.
+- [script](https://github.com/bitfield/script) - a Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
+- [tig](https://github.com/jonas/tig) - Text-mode interface for git
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+## Serverless
+
+- [OpenFaaS](https://github.com/openfaas/faas/) - Serverless Functions Made Simple
 
 ## Containers
 
@@ -32,12 +40,15 @@
 - [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development
 - [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
+- [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 
 ## Productivity
 
 - [Boostnote](https://Boostnote.io) - Boost Happiness, Productivity, and Creativity
 - [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/) - Converts your HTML clipboard to Markdown
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
 
 ## Sec
 
