@@ -13,6 +13,7 @@
 ## Testframeworks
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions
+- [KitchenCI](https://kitchen.ci/) - Infrastructure Code Deserves Tests Too
 
 ## DevShit 💩
 
@@ -28,6 +29,10 @@
 - [script](https://github.com/bitfield/script) - a Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+## OpsShit 💩
+
+- [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database
 
 ## Serverless
 
@@ -49,6 +54,7 @@
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/) - Converts your HTML clipboard to Markdown
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
+- [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit
 
 ## Sec
 
