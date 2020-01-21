@@ -56,7 +56,7 @@
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
 - [KitchenCI](https://kitchen.ci/) - Infrastructure Code Deserves Tests Too.
 
-## DevShit 💩
+## DevShit
 
 - [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode.
 - [GitHub-CodeOwners](https://help.github.com/en/articles/about-code-owners) - You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
@@ -90,7 +90,7 @@
 - [Fork](https://fork.dev/) - A fast and friendly git client for Mac and Windows.
 - [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Better Pull Request for GitHub - Chrome Web Store.
 
-## OpsShit 💩
+## OpsShit
 
 - [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!
@@ -121,6 +121,7 @@
 - [script](https://github.com/bitfield/script) - A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
+- [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database.
 
 ## Serverless
 
@@ -155,6 +156,7 @@
 - [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit.
 - [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
+- [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit.
 
 ## Sec
 
