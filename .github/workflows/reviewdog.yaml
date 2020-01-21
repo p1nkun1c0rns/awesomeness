@@ -8,12 +8,14 @@ jobs:
       - uses: actions/checkout@v1
         with:
           submodules: true
+
       - name: awesome-lint
         id: awesome-lint
         uses: squadcastHQ/awesome-lint-action@v1.0.1
-        continue-on-error: true
+
       - name: comment PR
         uses: unsplash/comment-on-pr@v1.2.0
+        if: failure()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
