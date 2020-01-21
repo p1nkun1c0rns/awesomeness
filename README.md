@@ -82,7 +82,7 @@
 ## Testframeworks
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
-- [KitchenCI](https://kitchen.ci/) - Infrastructure Code Deserves Tests Too.
+- [KitchenCI](https://github.com/test-kitchen/test-kitchen) - Infrastructure Code Deserves Tests Too.
 
 ## DevShit
 
