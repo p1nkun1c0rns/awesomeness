@@ -4,6 +4,8 @@ jobs:
   test:
     name: awesome-lint
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v1
         with:
@@ -20,7 +22,5 @@ jobs:
       - name: comment PR
         uses: unsplash/comment-on-pr@v1.2.0
         if: failure()
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           msg: "Report: ${{ steps.awesome-lint.outputs.report }}"
