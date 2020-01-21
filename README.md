@@ -28,6 +28,12 @@
 - [Talks](#talks)
 - [Articles](#articles)
 - [MacShit](#macshit)
+- [OpsShit](#opsshit)
+- [Serverless](#serverless)
+- [Kubernetes](#kubernetes)
+- [Productivity](#productivity)
+- [Sec](#sec)
+- [Networking](#networking)
 
 <!-- tocstop -->
 
