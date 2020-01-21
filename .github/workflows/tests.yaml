@@ -19,6 +19,9 @@ jobs:
         id: awesome-lint
         uses: squadcastHQ/awesome-lint-action@v1.0.1
 
+      - name: Debug
+        run: echo "The time was ${{ steps.awesome-lint.outputs.report }}"
+
       - name: comment PR
         uses: unsplash/comment-on-pr@v1.2.0
         if: failure()
