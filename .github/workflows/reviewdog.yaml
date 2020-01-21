@@ -9,6 +9,7 @@ jobs:
         with:
           submodules: true
       - name: awesome-lint
+        id: awesome-lint
         uses: squadcastHQ/awesome-lint-action@v1.0.1
         continue-on-error: true
       - name: comment PR
@@ -16,4 +17,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          msg: "${{ steps.awesome-lint.outputs.report }}"
+          msg: "Report: ${{ steps.awesome-lint.outputs.report }}"
