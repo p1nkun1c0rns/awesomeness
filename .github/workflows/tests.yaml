@@ -20,6 +20,7 @@ jobs:
         uses: squadcastHQ/awesome-lint-action@v1.0.1
 
       - name: Debug
+        if: failure()
         run: echo "The time was ${{ steps.awesome-lint.outputs.report }}"
 
       - name: comment PR
