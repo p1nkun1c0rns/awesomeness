@@ -80,8 +80,9 @@
 ## Testframeworks
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
+- [KitchenCI](https://kitchen.ci/) - Infrastructure Code Deserves Tests Too.
 
-## DevShit 💩
+## DevShit
 
 - [GitHub-CodeOwners](https://help.github.com/en/articles/about-code-owners) - You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 - [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode.
@@ -96,6 +97,10 @@
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 
+## OpsShit
+
+- [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database.
+
 ## Serverless
 
 - [OpenFaaS](https://github.com/openfaas/faas/) - Serverless Functions Made Simple.
@@ -109,6 +114,7 @@
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 ### Kubernetes
+## Kubernetes
 
 - [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development.
@@ -129,6 +135,8 @@
 - [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [husky](https://github.com/typicode/husky) Git hooks made easy 🐶 woof!
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
+- [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
+- [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit.
 
 ## Sec
 
