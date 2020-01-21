@@ -1,3 +1,5 @@
+<!--lint disable awesome-github-->
+
 # Innovation Weekly
 
 [![Join the chat at https://gitter.im/p1nkun1c0rns-awesomeness/community](https://badges.gitter.im/p1nkun1c0rns-awesomeness/community.svg)](https://gitter.im/p1nkun1c0rns-awesomeness/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
