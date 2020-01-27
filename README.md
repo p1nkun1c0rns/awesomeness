@@ -36,6 +36,8 @@
 - [Productivity](#productivity)
 - [Sec](#sec)
 - [Networking](#networking)
+- [Talks](#talks)
+- [Articles](#articles)
 
 <!-- tocstop -->
 
