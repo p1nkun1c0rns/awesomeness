@@ -197,3 +197,11 @@
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet.
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing.
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.
+
+## Talks
+- [Continuous Delivery Best Practices with Jenkins and GKE (Cloud Next '18)](https://www.youtube.com/watch?v=IDoRWieTcMc) - Continuous Delivery Best Practices.
+
+## Articles
+- [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-for-beginnners/) - Vim.
+- [HashiCorp Vault](https://www.vaultproject.io/docs/auth/gcp.html) - Google Cloud Auth Method.
+- [Google Cloud Solutions Architecture Reference](https://gcp.solutions/) - Nice overview about GCP Services.
