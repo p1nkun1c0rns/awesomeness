@@ -9,6 +9,7 @@
 - [uptime.is](https://uptime.is/) - SLA calculations assume a requirement of continuous uptime
 - [glitch.com](https://glitch.com) - Glitch is the friendly community where everyone builds the web
 - [LoremFlickr](https://loremflickr.com/) - Free placeholder images
+- [gitignore.io](http://gitignore.io/) - Create useful .gitignore files for your project
 
 ## Testframeworks
 
@@ -28,17 +29,25 @@
 - [Git Subtree Merging](https://git-scm.com/book/de/v1/Git-Tools-Subtree-Merging) - The idea of the subtree merge is that you have two projects, and one of the projects maps to a subdirectory of the other one and vice versa.
 - [script](https://github.com/bitfield/script) - a Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
+- [Fork](https://fork.dev/) - a fast and friendly git client for Mac and Windows
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## OpsShit 💩
 
 - [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database
+- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!
 
 ## Serverless
 
 - [OpenFaaS](https://github.com/openfaas/faas/) - Serverless Functions Made Simple
 
+## IaaC
+
+- [Terraform Switcher](https://github.com/warrensbox/terraform-switcher) - Manage terraform versions - the tfswitch command line tool lets you switch between different versions of terraform.
+
 ## Containers
+
+- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 ### Kubernetes
 
@@ -46,6 +55,7 @@
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development
 - [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 - [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
+- [Kubernetes Debug Guide](https://learnk8s.io/troubleshooting-deployments) - A visual guide on troubleshooting Kubernetes deployments
 
 ## Productivity
 
@@ -55,6 +65,8 @@
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
 - [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit
+- [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Better Pull Request for GitHub - Chrome Web Store
 
 ## Sec
 
@@ -63,6 +75,8 @@
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
 - [secalerts.co](https://secalerts.co) - Receive a free weekly email with a round-up of all vulnerabilities that affect your software as well as relevant security news and articles.
 - [Bitwarden](https://bitwarden.com) - Open Source Password Management Solutions
+- [sshgit](https://shhgit.darkport.co.uk/) - Ah shhgit! Find GitHub secrets in real time
+- [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 
 ## Networking
 
@@ -72,3 +86,7 @@
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark
+
+## MacShit 💩
+
+- [Mac OSX Wi-Fi Location Changer](https://github.com/rimar/wifi-location-changer) - automatically change location when mac os x changes wifi connection
