@@ -9,6 +9,7 @@
 - [uptime.is](https://uptime.is/) - SLA calculations assume a requirement of continuous uptime
 - [glitch.com](https://glitch.com) - Glitch is the friendly community where everyone builds the web
 - [LoremFlickr](https://loremflickr.com/) - Free placeholder images
+- [githistory](https://githistory.xyz/) - Quickly browse the history of files in any git repo
 - [gitignore.io](http://gitignore.io/) - Create useful .gitignore files for your project
 
 ## Testframeworks
@@ -31,6 +32,7 @@
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [Fork](https://fork.dev/) - a fast and friendly git client for Mac and Windows
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [Go Report Card](https://goreportcard.com/) - A report card for your Go application
 
 ## OpsShit 💩
 
@@ -55,6 +57,8 @@
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development
 - [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 - [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
+- [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
+- [flagger](https://flagger.app/) -  Progressive Delivery Operator for Kubernetes
 - [Kubernetes Debug Guide](https://learnk8s.io/troubleshooting-deployments) - A visual guide on troubleshooting Kubernetes deployments
 
 ## Productivity
