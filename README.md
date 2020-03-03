@@ -11,6 +11,7 @@
 - [LoremFlickr](https://loremflickr.com/) - Free placeholder images
 - [githistory](https://githistory.xyz/) - Quickly browse the history of files in any git repo
 - [gitignore.io](http://gitignore.io/) - Create useful .gitignore files for your project
+- [Short GCP News](https://snownews.appspot.com/) - Weekly News about GCP  
 
 ## Testframeworks
 
@@ -33,6 +34,17 @@
 - [Fork](https://fork.dev/) - a fast and friendly git client for Mac and Windows
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application
+
+## GitShit 💩
+- [Git with Multiple Email Addresses](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/) - Git with Multiple Email Addresses
+- [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well, Multilang!
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets. Gitleaks provides a way for you to find unencrypted secrets and other unwanted data types in git repositories.
+- [github-help-wanted](http://github-help-wanted.com/) - Connecting developers with open source projects.
+- [git push --force-with-lease](https://git-scm.com/docs/git-push#Documentation/git-push.txt---no-force-with-lease) - --force-with-lease is a safer option that will not overwrite any work on the remote branch if more commits were added to the remote branch
+- [public keys from Github](https://github.com/steinbrueckri.keys) - Github services your ssh public keys
+- [git add --patch](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging#_staging_patches) - Git: How to stage parts of a file
+- [gist](https://github.com/defunkt/gist) - gist - The gist gem provides a gist command that you can use from your terminal to upload content to Github.
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉
 
 ## OpsShit 💩
 
@@ -71,6 +83,7 @@
 - [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit
 - [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Better Pull Request for GitHub - Chrome Web Store
+- [husky](https://github.com/typicode/husky) Git hooks made easy 🐶 woof!
 
 ## Sec
 
