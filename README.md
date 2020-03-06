@@ -1,5 +1,7 @@
 # Innovation Weekly
 
+[![Join the chat at https://gitter.im/p1nkun1c0rns-awesomeness/community](https://badges.gitter.im/p1nkun1c0rns-awesomeness/community.svg)](https://gitter.im/p1nkun1c0rns-awesomeness/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Online Services
 
 - [remove.bg](https://remove.bg) - Remove Image Background - 100% automatically – in 5 seconds – without a single click
