@@ -7,9 +7,8 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
-          submodules: true
           fetch-depth: 0
 
       - name: Commitlint
@@ -17,14 +16,4 @@ jobs:
 
       - name: Awesomelint
         id: awesome-lint
-        uses: squadcastHQ/awesome-lint-action@v1.0.1
-
-      - name: Debug
-        if: failure()
-        run: echo "The time was ${{ steps.awesome-lint.outputs.report }}"
-
-      - name: comment PR
-        uses: unsplash/comment-on-pr@v1.2.0
-        if: failure()
-        with:
-          msg: "Report: ${{ steps.awesome-lint.outputs.report }}"
+        uses: jthegedus/github-action-awesome-lint
