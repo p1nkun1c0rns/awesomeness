@@ -16,4 +16,4 @@ jobs:
 
       - name: Awesomelint
         id: awesome-lint
-        uses: jthegedus/github-action-awesome-lint
+        uses: jthegedus/github-action-awesome-lint@master
