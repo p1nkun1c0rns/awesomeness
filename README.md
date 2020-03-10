@@ -1,4 +1,5 @@
-<!--lint disable awesome-github-->
+<!--lint disable awesome-github -->
+<!--lint disable awesome-git-repo-age -->
 
 # Innovation Weekly
 
@@ -13,47 +14,38 @@
 
 ## Contents
 
-<!-- toc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 
 - [Online Services](#online-services)
 - [Testframeworks](#testframeworks)
 - [DevShit](#devshit)
 - [GitShit](#gitshit)
 - [OpsShit](#opsshit)
+- [Testframeworks](#testframeworks-1)
+- [DevShit](#devshit-1)
 - [Serverless](#serverless)
-- [Kubernetes](#kubernetes)
-- [Serverless](#serverless-1)
 - [IaaC](#iaac)
 - [Containers](#containers)
-  * [Kubernetes](#kubernetes-1)
+  - [Kubernetes](#kubernetes)
 - [Productivity](#productivity)
 - [Sec](#sec)
 - [Networking](#networking)
 - [Talks](#talks)
 - [Articles](#articles)
 - [MacShit](#macshit)
-- [GitShit 💩](#gitshit-%F0%9F%92%A9)
-- [OpsShit](#opsshit)
-- [Serverless](#serverless)
-- [Kubernetes](#kubernetes)
-- [Serverless](#serverless-1)
-- [IaaC](#iaac)
-- [Containers](#containers)
-  * [Kubernetes](#kubernetes-1)
-- [Productivity](#productivity)
-- [Sec](#sec)
-- [Networking](#networking)
-- [Talks](#talks)
-- [Articles](#articles)
-- [MacShit 💩](#macshit-%F0%9F%92%A9)
+- [Talks](#talks-1)
+- [Articles](#articles-1)
+- [MacShit 💩](#macshit-)
 
-<!-- tocstop -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Online Services
 
 - [remove.bg](https://remove.bg) - Remove Image Background - 100% automatically – in 5 seconds – without a single click.
 - [ipinfo.io](https://ipinfo.io) - With IPinfo, you can pinpoint your users locations, customize their experiences, prevent fraud, ensure compliance, and so much more.
-- [explainshell.com](https://explainshell.com) - write down a command-line to see the help text that matches each argument.
+- [explainshell.com](https://explainshell.com) - Write down a command-line to see the help text that matches each argument.
 - [remove.bg](https://remove.bg) - Remove Image Background, 100% automatically, in 5 seconds, without a single click.
 - [ipinfo.io](https://ipinfo.io) - With IPinfo, you can pinpoint your users locations, customize their experiences, prevent fraud, ensure compliance, and so much more.
 - [explainshell.com](https://explainshell.com) - Write down a command-line to see the help text that matches each argument.
@@ -61,7 +53,6 @@
 - [uptime.is](https://uptime.is/) - SLA calculations assume a requirement of continuous uptime.
 - [glitch.com](https://glitch.com) - Glitch is the friendly community where everyone builds the web.
 - [LoremFlickr](https://loremflickr.com/) - Free placeholder images.
-- [Short GCP News](https://snownews.appspot.com/) - Weekly News about GCPö
 - [Short GCP News](https://snownews.appspot.com/) - Weekly News about GCP.
 
 ## Testframeworks
@@ -85,12 +76,12 @@
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
 - [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode
 - [Stein](https://github.com/SteinHQ/Stein) - Ship fast and manage your data with ease. Connect to Google Sheets.
-- [gatling.io](https://gatling.io/) - The best developer tool to load test your web applications
+- [gatling.io](https://gatling.io/) - The best developer tool to load test your web applications.
 - [httpie](https://httpie.org/) - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more
-- [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit
-- [script](https://github.com/bitfield/script) - A   Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [Go Report Card](https://goreportcard.com/) - A report card for your Go application
+- [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit.
+- [script](https://github.com/bitfield/script) - A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
+- [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
 
 ## GitShit
 
@@ -133,7 +124,6 @@
 
 - [GitHub-CodeOwners](https://help.github.com/en/articles/about-code-owners) - You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 - [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode.
-- [flipt.dev](https://flipt.dev) - A feature flag solution that runs in your existing infrastructure.
 - [Stein](https://github.com/SteinHQ/Stein) - Ship fast and manage your data with ease. Connect to Google Sheets.
 - [gatling.io](https://gatling.io/) - The best developer tool to load test your web applications.
 - [httpie](https://httpie.org/) - Is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
@@ -144,9 +134,6 @@
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 - [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database.
-## Kubernetes
-- [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database.
-- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!
 
 ## Serverless
 
@@ -160,7 +147,7 @@
 
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell.
 
-## Kubernetes
+### Kubernetes
 
 - [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development.
@@ -221,7 +208,7 @@
 
 ## MacShit
 
-- [Mac OSX Wi-Fi Location Changer](https://github.com/rimar/wifi-location-changer) - automatically change location when mac os x changes wifi connection
+- [macOS Wi-Fi Location Changer](https://github.com/rimar/wifi-location-changer) - automatically change location when macOS changes wifi connection
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet.
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing.
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.

@@ -2,15 +2,20 @@
 
 Contributions to this Module are very welcome! We follow a fairly standard [pull request process](https://help.github.com/articles/about-pull-requests/) for contributions, subject to the following guidelines:
 
-- [Contribution Guidelines](#contribution-guidelines)
-  - [Update the documentation](#update-the-documentation)
-  - [Update the tests](#update-the-tests)
-  - [Update the code](#update-the-code)
-    - [Backwards compatibility](#backwards-compatibility)
-    - [Downtime](#downtime)
-    - [Formatting](#formatting)
-  - [Create a pull request](#create-a-pull-request)
-  - [Merge and release](#merge-and-release)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Update the documentation](#update-the-documentation)
+- [Update the tests](#update-the-tests)
+- [Update the code](#update-the-code)
+  - [Backwards compatibility](#backwards-compatibility)
+  - [Downtime](#downtime)
+  - [Formatting](#formatting)
+- [Create a pull request](#create-a-pull-request)
+- [Merge and release](#merge-and-release)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Update the documentation
 
