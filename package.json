@@ -1,6 +1,10 @@
 {
   "name": "awesomeness",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/p1nkun1c0rns/awesomeness.git"
+  },
+  "license": "MIT",
   "scripts": {
     "awesome-lint": "awesome-lint",
     "commit-lint": "commitlint --from master",
