@@ -14,20 +14,20 @@
 - [Online Services](#online-services)
 - [Testframeworks](#testframeworks)
 - [DevShit](#devshit)
-- [GitShit 💩](#gitshit-%F0%9F%92%A9)
+- [GitShit](#gitshit)
 - [OpsShit](#opsshit)
 - [Serverless](#serverless)
 - [Kubernetes](#kubernetes)
 - [Serverless](#serverless-1)
 - [IaaC](#iaac)
 - [Containers](#containers)
-  - [Kubernetes](#kubernetes-1)
+  * [Kubernetes](#kubernetes-1)
 - [Productivity](#productivity)
 - [Sec](#sec)
 - [Networking](#networking)
 - [Talks](#talks)
 - [Articles](#articles)
-- [MacShit 💩](#macshit-%F0%9F%92%A9)
+- [MacShit](#macshit)
 
 <!-- tocstop -->
 
@@ -80,7 +80,7 @@
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
 
-## GitShit 💩
+## GitShit
 
 - [Git with Multiple Email Addresses](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/) - Git with Multiple Email Addresses.
 - [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well, Multilang!
@@ -221,6 +221,6 @@
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing.
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.
 
-## MacShit 💩
+## MacShit
 
 - [macOS Wi-Fi Location Changer](https://github.com/rimar/wifi-location-changer) - Automatically change location when macOS changes wifi connection.
