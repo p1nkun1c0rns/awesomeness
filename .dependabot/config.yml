@@ -1,0 +1,19 @@
+version: 1
+update_configs:
+  - package_manager: "github_actions"
+    directory: "/"
+    update_schedule: "weekly"
+    automerged_updates:
+      - match:
+          dependency_type: "all"
+          update_type: "all"
+    commit_message:
+      prefix: "chore(tooling)"
+      include_scope: false
+  - package_manager: "javascript"
+    directory: "/"
+    update_schedule: "weekly"
+    automerged_updates:
+      - match:
+          dependency_type: "all"
+          update_type: "all"

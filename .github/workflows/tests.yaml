@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 10
+          fetch-depth: 0
 
       - uses: actions/setup-node@v1
         with:
@@ -22,5 +22,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
+      - run: npm version
       - run: npm install
       - run: npm run ci
