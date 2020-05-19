@@ -7,8 +7,6 @@ update_configs:
       - match:
           dependency_type: "all"
           update_type: "all"
-    default_labels:
-      - "todo"
     commit_message:
       prefix: "chore(tooling)"
       include_scope: false
