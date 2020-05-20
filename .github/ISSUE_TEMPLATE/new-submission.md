@@ -3,7 +3,7 @@ name: New submission
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: @p1nkun1c0rns/awesomeness-reviewer
 ---
 
 # Name
