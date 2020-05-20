@@ -1,6 +1,6 @@
 ---
 name: New submission
-about: Describe this issue template's purpose here.
+about: Propose a new awesomeness candidate.
 assignees: @p1nkun1c0rns/awesomeness-reviewer
 ---
 
