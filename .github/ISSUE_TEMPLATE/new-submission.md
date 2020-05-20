@@ -10,7 +10,7 @@ assignees: ''
 
 # Description
 
-## Example
+# Example
 <!-- please add screenshot or command line output if possible -->
 
 ## Links
