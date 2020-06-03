@@ -39,6 +39,7 @@
 - [LoremFlickr](https://loremflickr.com/) - Free placeholder images.
 - [Short GCP News](https://snownews.appspot.com/) - Weekly News about GCP.
 - [uptime.is](https://uptime.is/) - SLA calculations assume a requirement of continuous uptime.
+- [shields.io](https://shields.io/) - Badges for Everybody.
 
 ## Testframeworks
 
@@ -60,6 +61,7 @@
 
 ## GitShit
 
+- [GitStalk](gitstalk.netlify.com) - Stalk github activities.
 - [Fire](https://fire.fundersclub.com/#SetUp) - Mail2GitHub.
 - [Git with Multiple Email Addresses](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/) - Git with Multiple Email Addresses.
 - [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well, Multilang!
