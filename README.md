@@ -1,7 +1,7 @@
 <!--lint disable awesome-github -->
 <!--lint disable awesome-git-repo-age -->
 
-# Innovation Weekly
+# Innovation Weekly asdasdasd
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
