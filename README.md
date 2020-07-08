@@ -13,6 +13,7 @@
 
 - [Online Services](#online-services)
 - [Testframeworks](#testframeworks)
+- [DesignShit](#designshit)
 - [DevShit](#devshit)
 - [GitShit](#gitshit)
 - [OpsShit](#opsshit)
@@ -40,11 +41,17 @@
 - [Short GCP News](https://snownews.appspot.com/) - Weekly News about GCP.
 - [uptime.is](https://uptime.is/) - SLA calculations assume a requirement of continuous uptime.
 - [shields.io](https://shields.io/) - Badges for Everybody.
+- [Whats.new](https://whats.new/) - .new is a domain extension exclusively for performing new actions online.
+- [hackmd.io](https://hackmd.io) - Get everyone on the same page with Markdown.
 
 ## Testframeworks
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
 - [KitchenCI](https://github.com/test-kitchen/test-kitchen) - Infrastructure Code Deserves Tests Too.
+
+## DesignShit
+
+- [Calico](https://github.com/ix/calico) - Calico is a small utility written in Haskell which is cat but for colors.
 
 ## DevShit
 
@@ -58,6 +65,8 @@
 - [script](https://github.com/bitfield/script) - A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
+- [entr](http://eradman.com/entrproject/) - Event Notify Test Runner is a general-purpose Unix utility.
+- [jiq](https://github.com/fiatjaf/jiq) - You can drill down interactively by using jq filtering queries.
 
 ## GitShit
 
@@ -105,6 +114,9 @@
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [flagger](https://flagger.app/) -  Progressive Delivery Operator for Kubernetes.
 - [Kubernetes Debug Guide](https://learnk8s.io/troubleshooting-deployments) - A visual guide on troubleshooting Kubernetes deployments.
+- [k3d](https://github.com/rancher/k3d) - k3d creates containerized k3s clusters.
+- [kail](https://github.com/boz/kail) - Kubernetes tail. Streams logs from all containers of all matched pods.
+- [Popeye](https://github.com/derailed/popeye) - A Kubernetes Cluster Sanitizer.
 
 ## Productivity
 
@@ -116,6 +128,7 @@
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
 - [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit.
 - [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [peco](https://github.com/peco/peco/) - Simplistic interactive filtering tool
 
 ## Sec
 
@@ -140,6 +153,7 @@
 ## Talks
 
 - [Continuous Delivery Best Practices with Jenkins and GKE (Cloud Next '18)](https://www.youtube.com/watch?v=IDoRWieTcMc) - Continuous Delivery Best Practices.
+- [Wat](https://www.destroyallsoftware.com/talks/wat) - A lightning talk by Gary Bernhardt from CodeMash 2012.
 
 ## MacShit
 
