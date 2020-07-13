@@ -17,7 +17,7 @@
     }
   },
   "dependencies": {
-    "awesome-lint": "^0.13.0",
+    "awesome-lint": "^0.14.0",
     "doctoc": "^1.4.0",
     "jshint": "^2.11.1"
   },
