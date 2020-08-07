@@ -19,7 +19,7 @@
   "dependencies": {
     "awesome-lint": "^0.15.0",
     "doctoc": "^1.4.0",
-    "jshint": "^2.11.2"
+    "jshint": "^2.12.0"
   },
   "devDependencies": {
     "husky": "^4.2.5",
