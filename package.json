@@ -9,7 +9,8 @@
     "awesome-lint": "awesome-lint",
     "doctoc": "doctoc *.md",
     "hook": "npm-run-all -s doctoc",
-    "ci": "npm-run-all -s awesome-lint"
+		"ci": "npm-run-all -s awesome-lint",
+		"audit": "node node_modules/better-npm-audit audit -i 1550"
   },
   "husky": {
     "hooks": {
@@ -18,6 +19,7 @@
   },
   "dependencies": {
     "awesome-lint": "^0.15.0",
+    "better-npm-audit": "^1.3.1",
     "doctoc": "^1.4.0",
     "jshint": "^2.12.0"
   },
