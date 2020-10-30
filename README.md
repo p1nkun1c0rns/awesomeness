@@ -164,6 +164,7 @@
 - [macOS Wi-Fi Location Changer](https://github.com/rimar/wifi-location-changer) - automatically change location when macOS changes wifi connection
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet.
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.
+- [PAW](https://paw.cloud/) - Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. #OnlyMac
 
 ## Articles
 
