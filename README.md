@@ -134,6 +134,7 @@
 - [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [peco](https://github.com/peco/peco/) - Simplistic interactive filtering tool
 - [GAM](https://github.com/jay0lee/GAM) - GAM is a command line tool for Google Workspace (fka G Suite) Administrators to manage domain and user settings quickly and easily.
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers.
 
 ## Sec
 
