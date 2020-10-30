@@ -89,6 +89,7 @@
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [Fork](https://fork.dev/) - A fast and friendly git client for Mac and Windows.
 - [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Better Pull Request for GitHub - Chrome Web Store.
+- [git-prune](https://github.com/git/git/blob/bb80ee09974667a1db6bbc5e33574ed869b76a88/Documentation/RelNotes/1.8.5.txt#L99-L101) - git config remote.origin.prune true
 
 ## OpsShit
 
