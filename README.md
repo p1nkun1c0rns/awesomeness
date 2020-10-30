@@ -43,6 +43,7 @@
 - [shields.io](https://shields.io/) - Badges for Everybody.
 - [Whats.new](https://whats.new/) - .new is a domain extension exclusively for performing new actions online.
 - [hackmd.io](https://hackmd.io) - Get everyone on the same page with Markdown.
+- [seashells.io](Seashells lets you pipe output from command-line programs to the web in real-time)
 
 ## Testframeworks
 
