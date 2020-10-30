@@ -119,6 +119,7 @@
 - [k3d](https://github.com/rancher/k3d) - k3d creates containerized k3s clusters.
 - [kail](https://github.com/boz/kail) - Kubernetes tail. Streams logs from all containers of all matched pods.
 - [Popeye](https://github.com/derailed/popeye) - A Kubernetes Cluster Sanitizer.
+- [argo-cd](https://argoproj.github.io/argo-cd/) - Argo CD - Declarative GitOps CD for Kubernetes
 
 ## Productivity
 
