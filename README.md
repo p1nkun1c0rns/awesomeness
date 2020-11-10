@@ -43,6 +43,8 @@
 - [shields.io](https://shields.io/) - Badges for Everybody.
 - [Whats.new](https://whats.new/) - .new is a domain extension exclusively for performing new actions online.
 - [hackmd.io](https://hackmd.io) - Get everyone on the same page with Markdown.
+- [seashells.io](https://seashells.io) - Seashells lets you pipe output from command-line programs to the web in real-time.
+- [SheetBest](https://sheet.best) - Convert SpreatSheets into APIs
 
 ## Testframeworks
 
@@ -87,6 +89,7 @@
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [Fork](https://fork.dev/) - A fast and friendly git client for Mac and Windows.
 - [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Better Pull Request for GitHub - Chrome Web Store.
+- [git-prune](https://github.com/git/git/blob/bb80ee09974667a1db6bbc5e33574ed869b76a88/Documentation/RelNotes/1.8.5.txt#L99-L101) - git config remote.origin.prune true
 
 ## OpsShit
 
@@ -117,6 +120,7 @@
 - [k3d](https://github.com/rancher/k3d) - k3d creates containerized k3s clusters.
 - [kail](https://github.com/boz/kail) - Kubernetes tail. Streams logs from all containers of all matched pods.
 - [Popeye](https://github.com/derailed/popeye) - A Kubernetes Cluster Sanitizer.
+- [argo-cd](https://argoproj.github.io/argo-cd/) - Argo CD - Declarative GitOps CD for Kubernetes
 
 ## Productivity
 
@@ -129,6 +133,8 @@
 - [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit.
 - [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [peco](https://github.com/peco/peco/) - Simplistic interactive filtering tool
+- [GAM](https://github.com/jay0lee/GAM) - GAM is a command line tool for Google Workspace (fka G Suite) Administrators to manage domain and user settings quickly and easily.
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers.
 
 ## Sec
 
@@ -160,6 +166,7 @@
 - [macOS Wi-Fi Location Changer](https://github.com/rimar/wifi-location-changer) - automatically change location when macOS changes wifi connection
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet.
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.
+- [PAW](https://paw.cloud/) - Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. #OnlyMac
 
 ## Articles
 
