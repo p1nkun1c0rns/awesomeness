@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "awesome-lint": "^0.17.1",
-    "better-npm-audit": "^1.5.0",
+    "better-npm-audit": "^1.8.0",
     "doctoc": "^2.0.0",
     "husky": "^5.0.9",
     "jshint": "^2.12.0",
