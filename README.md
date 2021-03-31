@@ -91,6 +91,7 @@
 - [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Better Pull Request for GitHub - Chrome Web Store.
 - [git-prune](https://github.com/git/git/blob/bb80ee09974667a1db6bbc5e33574ed869b76a88/Documentation/RelNotes/1.8.5.txt#L99-L101) - git config remote.origin.prune true
 - [git-notify](https://github.com/jevakallio/git-notify) - Communicate important updates to your team via git commit messages.
+- [https://gitexplorer.com/](gitexplorer) - help you to find the right command.
 
 ## OpsShit
 
