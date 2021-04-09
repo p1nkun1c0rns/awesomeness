@@ -90,6 +90,8 @@
 - [Fork](https://fork.dev/) - A fast and friendly git client for Mac and Windows.
 - [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Better Pull Request for GitHub - Chrome Web Store.
 - [git-prune](https://github.com/git/git/blob/bb80ee09974667a1db6bbc5e33574ed869b76a88/Documentation/RelNotes/1.8.5.txt#L99-L101) - git config remote.origin.prune true
+- [git-notify](https://github.com/jevakallio/git-notify) - Communicate important updates to your team via git commit messages.
+- [https://gitexplorer.com/](gitexplorer) - help you to find the right command.
 
 ## OpsShit
 
@@ -121,6 +123,9 @@
 - [kail](https://github.com/boz/kail) - Kubernetes tail. Streams logs from all containers of all matched pods.
 - [Popeye](https://github.com/derailed/popeye) - A Kubernetes Cluster Sanitizer.
 - [argo-cd](https://argoproj.github.io/argo-cd/) - Argo CD - Declarative GitOps CD for Kubernetes
+- [K8s production-best-practices](https://learnk8s.io/production-best-practices) - A curated checklist of best practices designed to help you release to production
+- [kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - kubectl plugin that allows for easy secret decoding.
+- [ketall](https://github.com/corneliusweig/ketall) - kubectl plugin that allows to get easy all resources from a k8s cluster
 
 ## Productivity
 
