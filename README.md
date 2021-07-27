@@ -13,6 +13,8 @@
 
 - [Online Services](#online-services)
 - [Testframeworks](#testframeworks)
+- [Buildsystems](#buildsystems)
+- [Packagemanager](#packagemanager)
 - [DesignShit](#designshit)
 - [DevShit](#devshit)
 - [GitShit](#gitshit)
@@ -21,6 +23,7 @@
 - [IaaC](#iaac)
 - [Containers](#containers)
   - [Kubernetes](#kubernetes)
+- [GitOps](#gitops)
 - [Productivity](#productivity)
 - [Sec](#sec)
 - [Networking](#networking)
@@ -45,11 +48,21 @@
 - [hackmd.io](https://hackmd.io) - Get everyone on the same page with Markdown.
 - [seashells.io](https://seashells.io) - Seashells lets you pipe output from command-line programs to the web in real-time.
 - [SheetBest](https://sheet.best) - Convert SpreatSheets into APIs
+- [readme generator](https://readme.so/editor) - simple editor allows you to quickly add and customize all the sections you need for your project's readme
 
 ## Testframeworks
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
 - [KitchenCI](https://github.com/test-kitchen/test-kitchen) - Infrastructure Code Deserves Tests Too.
+
+## Buildsystems
+
+- [task](https://taskfile.dev/#/installation) - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make
+
+## Packagemanager
+
+- [huber](https://github.com/innobead/huber) - Huber is to simplify the package management from GitHub projects with a builtin awesome list (live updating) of popular projects
+- [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool
 
 ## DesignShit
 
@@ -100,6 +113,7 @@
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!
 - [asroute](https://github.com/stevenpack/asroute) - asroute is a CLI tool for parsing traceroute output to summarize AS's traversed.
 - [winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+- [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. Great alternative to TeamViewer and AnyDesk!
 
 ## Serverless
 
@@ -117,7 +131,6 @@
 
 - [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development.
-- [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 - [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [flagger](https://flagger.app/) -  Progressive Delivery Operator for Kubernetes.
@@ -130,6 +143,14 @@
 - [kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - kubectl plugin that allows for easy secret decoding.
 - [ketall](https://github.com/corneliusweig/ketall) - kubectl plugin that allows to get easy all resources from a k8s cluster
 - [kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
+- [kyverno](https://github.com/kyverno/kyverno/) - Kyverno is a policy engine designed for Kubernetes
+- [kubectl-status](https://github.com/bergerx/kubectl-status) - A kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
+- [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
+
+## GitOps
+
+- [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
+- [Crossplane](https://github.com/crossplane/crossplane) - Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume
 
 ## Productivity
 
@@ -156,6 +177,9 @@
 - [Bitwarden](https://bitwarden.com) - Open Source Password Management Solutions.
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [HashiCorp Vault](https://www.vaultproject.io/docs/auth/gcp.html) - Google Cloud Auth Method.
+- [httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads
+- [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources
+- [naabu](https://github.com/projectdiscovery/naabu) - Naabu is a port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner. It is a really simple tool that does fast SYN/CONNECT scans on the host/list of hosts and lists all ports that return a reply.
 
 ## Networking
 
@@ -165,6 +189,7 @@
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark
+- [NetBox](https://github.com/netbox-community/netbox) - NetBox is an infrastructure resource modeling (IRM) tool designed to empower network automation
 
 ## Talks
 
