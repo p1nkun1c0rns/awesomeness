@@ -69,6 +69,7 @@
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
 - [entr](http://eradman.com/entrproject/) - Event Notify Test Runner is a general-purpose Unix utility.
 - [jiq](https://github.com/fiatjaf/jiq) - You can drill down interactively by using jq filtering queries.
+- [updtr](https://github.com/peerigon/updtr) - Update outdated npm modules with zero pain™
 
 ## GitShit
 
@@ -97,6 +98,8 @@
 
 - [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!
+- [asroute](https://github.com/stevenpack/asroute) - asroute is a CLI tool for parsing traceroute output to summarize AS's traversed.
+- [winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 
 ## Serverless
 
@@ -126,6 +129,7 @@
 - [K8s production-best-practices](https://learnk8s.io/production-best-practices) - A curated checklist of best practices designed to help you release to production
 - [kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - kubectl plugin that allows for easy secret decoding.
 - [ketall](https://github.com/corneliusweig/ketall) - kubectl plugin that allows to get easy all resources from a k8s cluster
+- [kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 
 ## Productivity
 
@@ -133,6 +137,7 @@
 - [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider.
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/) - Converts your HTML clipboard to Markdown.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [dog](https://github.com/ogham/dog) - dog is a command-line DNS client, like dig with more colors and json.
 - [husky](https://github.com/typicode/husky) Git hooks made easy 🐶 woof!
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
 - [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit.
