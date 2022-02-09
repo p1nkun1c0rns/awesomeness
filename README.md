@@ -147,6 +147,7 @@
 - [kubectl-status](https://github.com/bergerx/kubectl-status) - A kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
 - [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
 - [kconfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
+- [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
 
 ## GitOps
 
