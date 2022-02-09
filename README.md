@@ -114,6 +114,7 @@
 - [asroute](https://github.com/stevenpack/asroute) - asroute is a CLI tool for parsing traceroute output to summarize AS's traversed.
 - [winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. Great alternative to TeamViewer and AnyDesk!
+- [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for building identical machine images for multiple platforms from a single source configuration.
 
 ## Serverless
 
