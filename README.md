@@ -54,6 +54,7 @@
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
 - [KitchenCI](https://github.com/test-kitchen/test-kitchen) - Infrastructure Code Deserves Tests Too.
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
 ## Buildsystems
 
