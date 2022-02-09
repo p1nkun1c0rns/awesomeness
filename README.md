@@ -146,6 +146,7 @@
 - [kyverno](https://github.com/kyverno/kyverno/) - Kyverno is a policy engine designed for Kubernetes
 - [kubectl-status](https://github.com/bergerx/kubectl-status) - A kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
 - [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
+- [kconfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
 
 ## GitOps
 
