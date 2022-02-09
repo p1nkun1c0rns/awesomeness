@@ -117,6 +117,10 @@
 - [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. Great alternative to TeamViewer and AnyDesk!
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for building identical machine images for multiple platforms from a single source configuration.
 
+## CloudShit
+
+- [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+
 ## Serverless
 
 - [OpenFaaS](https://github.com/openfaas/faas/) - Serverless Functions Made Simple.
