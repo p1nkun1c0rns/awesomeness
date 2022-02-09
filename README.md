@@ -170,6 +170,7 @@
 - [peco](https://github.com/peco/peco/) - Simplistic interactive filtering tool
 - [GAM](https://github.com/jay0lee/GAM) - GAM is a command line tool for Google Workspace (fka G Suite) Administrators to manage domain and user settings quickly and easily.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers.
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga is a line-oriented search tool that allows you to look for a regex in a multitude of file types. rga wraps the awesome ripgrep and enables it to search in pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc.
 
 ## Sec
 
