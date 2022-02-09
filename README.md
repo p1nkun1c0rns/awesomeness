@@ -54,6 +54,7 @@
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
 - [KitchenCI](https://github.com/test-kitchen/test-kitchen) - Infrastructure Code Deserves Tests Too.
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
 ## Buildsystems
 
@@ -114,6 +115,11 @@
 - [asroute](https://github.com/stevenpack/asroute) - asroute is a CLI tool for parsing traceroute output to summarize AS's traversed.
 - [winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. Great alternative to TeamViewer and AnyDesk!
+- [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for building identical machine images for multiple platforms from a single source configuration.
+
+## CloudShit
+
+- [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 
 ## Serverless
 
@@ -145,7 +151,10 @@
 - [kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [kyverno](https://github.com/kyverno/kyverno/) - Kyverno is a policy engine designed for Kubernetes
 - [kubectl-status](https://github.com/bergerx/kubectl-status) - A kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
+- [kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
+- [kconfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
+- [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
 
 ## GitOps
 
@@ -166,6 +175,8 @@
 - [peco](https://github.com/peco/peco/) - Simplistic interactive filtering tool
 - [GAM](https://github.com/jay0lee/GAM) - GAM is a command line tool for Google Workspace (fka G Suite) Administrators to manage domain and user settings quickly and easily.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers.
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga is a line-oriented search tool that allows you to look for a regex in a multitude of file types. rga wraps the awesome ripgrep and enables it to search in pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc.
+- [marktext](https://github.com/marktext/marktext) - A simple and elegant open-source markdown editor that focused on speed and usability.
 
 ## Sec
 
@@ -190,6 +201,8 @@
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark
 - [NetBox](https://github.com/netbox-community/netbox) - NetBox is an infrastructure resource modeling (IRM) tool designed to empower network automation
+- [traefik](https://traefik.io/) - The simplest, most comprehensive cloud-native Ingress, but can also used on VMs if you need
+- [gping](https://github.com/orf/gping) - Ping, but with a graph.
 
 ## Talks
 
