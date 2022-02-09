@@ -202,6 +202,7 @@
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark
 - [NetBox](https://github.com/netbox-community/netbox) - NetBox is an infrastructure resource modeling (IRM) tool designed to empower network automation
 - [traefik](https://traefik.io/) - The simplest, most comprehensive cloud-native Ingress, but can also used on VMs if you need
+- [gping](https://github.com/orf/gping) - Ping, but with a graph.
 
 ## Talks
 
