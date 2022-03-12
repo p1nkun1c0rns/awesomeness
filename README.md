@@ -84,6 +84,9 @@
 - [entr](http://eradman.com/entrproject/) - Event Notify Test Runner is a general-purpose Unix utility.
 - [jiq](https://github.com/fiatjaf/jiq) - You can drill down interactively by using jq filtering queries.
 - [updtr](https://github.com/peerigon/updtr) - Update outdated npm modules with zero pain™
+- [jo](https://github.com/jpmens/jo) – A small utility to create JSON objects
+- [free-for-dev](https://github.com/ripienaar/free-for-dev#dev-blogging-sites): Extensive list of free tiers and other free
+  development resources
 
 ## GitShit
 
@@ -132,6 +135,8 @@
 ## Containers
 
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell.
+- [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with 
+  `docker` CLI and `docker-compose`
 
 ### Kubernetes
 
@@ -155,6 +160,8 @@
 - [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
 - [kconfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
 - [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
+- [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices
+  for running workloads on Kubernetes
 
 ## GitOps
 
