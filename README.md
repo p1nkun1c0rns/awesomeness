@@ -83,6 +83,7 @@
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
 - [entr](http://eradman.com/entrproject/) - Event Notify Test Runner is a general-purpose Unix utility.
 - [jiq](https://github.com/fiatjaf/jiq) - You can drill down interactively by using jq filtering queries.
+- [dasl](https://github.com/TomWright/dasel) - Can convert json to yaml and vice versa and it clame to be faster then jq and yq
 - [updtr](https://github.com/peerigon/updtr) - Update outdated npm modules with zero pain™
 - [jo](https://github.com/jpmens/jo) – A small utility to create JSON objects
 - [free-for-dev](https://github.com/ripienaar/free-for-dev#dev-blogging-sites): Extensive list of free tiers and other free
@@ -119,6 +120,10 @@
 - [winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. Great alternative to TeamViewer and AnyDesk!
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for building identical machine images for multiple platforms from a single source configuration.
+- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal
+- [caddy](https://caddyserver.com/) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
+- [ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
+- [ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 
 ## CloudShit
 
@@ -135,7 +140,7 @@
 ## Containers
 
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell.
-- [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with 
+- [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with
   `docker` CLI and `docker-compose`
 
 ### Kubernetes
@@ -184,6 +189,8 @@
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga is a line-oriented search tool that allows you to look for a regex in a multitude of file types. rga wraps the awesome ripgrep and enables it to search in pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc.
 - [marktext](https://github.com/marktext/marktext) - A simple and elegant open-source markdown editor that focused on speed and usability.
+- [gh](https://github.com/cli/cli) - `gh` is GitHub on the command line.
+- [gh-dash](https://github.com/dlvhdr/gh-dash) - A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about.
 
 ## Sec
 
@@ -222,6 +229,7 @@
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet.
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.
 - [PAW](https://paw.cloud/) - Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. #OnlyMac
+- [m-cli](https://github.com/rgcr/m-cli) - m-cli is a macOS command line tool that lets you interact with utilities and applications entirely in Terminal.
 
 ## Articles
 
