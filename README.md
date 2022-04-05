@@ -83,6 +83,7 @@
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
 - [entr](http://eradman.com/entrproject/) - Event Notify Test Runner is a general-purpose Unix utility.
 - [jiq](https://github.com/fiatjaf/jiq) - You can drill down interactively by using jq filtering queries.
+- [dasl](https://github.com/TomWright/dasel) - Can convert json to yaml and vice versa and it clame to be faster then jq and yq
 - [updtr](https://github.com/peerigon/updtr) - Update outdated npm modules with zero pain™
 - [jo](https://github.com/jpmens/jo) – A small utility to create JSON objects
 - [free-for-dev](https://github.com/ripienaar/free-for-dev#dev-blogging-sites): Extensive list of free tiers and other free
@@ -135,7 +136,7 @@
 ## Containers
 
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell.
-- [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with 
+- [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with
   `docker` CLI and `docker-compose`
 
 ### Kubernetes
