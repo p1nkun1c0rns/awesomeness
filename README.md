@@ -49,6 +49,7 @@
 - [seashells.io](https://seashells.io) - Seashells lets you pipe output from command-line programs to the web in real-time.
 - [SheetBest](https://sheet.best) - Convert SpreatSheets into APIs
 - [readme generator](https://readme.so/editor) - simple editor allows you to quickly add and customize all the sections you need for your project's readme
+- [Tango](https://www.tango.us/) - Create step-by-step documentation with screenshots, in seconds.
 
 ## Testframeworks
 
@@ -205,11 +206,13 @@
 - [httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources
 - [naabu](https://github.com/projectdiscovery/naabu) - Naabu is a port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner. It is a really simple tool that does fast SYN/CONNECT scans on the host/list of hosts and lists all ports that return a reply.
+- [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
 
 ## Networking
 
 - [Tufin](https://www.tufin.com/) - Tufin is a security policy management company specializing in the automation of security policy changes across hybrid platforms.
 - [ngrok.com](https://ngrok.com) - Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall.
+- [bore](https://github.com/ekzhang/bore) - A modern, simple TCP tunnel in Rust that exposes local ports to a remote server, bypassing standard NAT connection firewalls. That's all it does: no more, and no less.
 - [mr2](https://github.com/txthinking/mr2/) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP. Keep it simple, stupid.
 - [Inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet
 - [snowdrift](https://github.com/steinbrueckri/snowdrift) - Firewall Rule Testing
