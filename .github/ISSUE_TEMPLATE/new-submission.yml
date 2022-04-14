@@ -1,0 +1,73 @@
+name: New Submission
+description: Propose a new awesomeness candidate.
+title: "[Submission]: "
+labels: ["submission"]
+assignees:
+  - awesomeness-reviewer
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to file a new request.
+
+        ---
+  - type: checkboxes
+    id: existing-issue
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+      - label: I have searched the existing issues
+        required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: "Please provide the link to your candidate."
+      placeholder: "https://github.com/p1nkun1c0rns/awesomeness"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: Please provide a short description for your candidate.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why your candidate?
+      description: Why do you think your candidate is a good addition to our list?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Into which category does your submission fit best? (multiple allowed)
+      multiple: true
+      options:
+        - Online Services
+        - Testframeworks
+        - Buildsystems
+        - Packagemanager
+        - DesignShit
+        - DevShit
+        - GitShit
+        - OpsShit
+        - Serverless
+        - IaaC
+        - Containers
+        - Containers - Kubernetes
+        - GitOps
+        - Productivity
+        - Sec
+        - Networking
+        - Talks
+        - MacShit
+        - Articles
+        - Somewhere else (please specify in the description!)
+    validations:
+      required: true
