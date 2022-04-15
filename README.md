@@ -168,6 +168,7 @@
 - [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
 - [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices
   for running workloads on Kubernetes
+- [Mizu](https://github.com/up9inc/mizu): API traffic viewer for Kubernetes enabling you to view all API communication between microservices.
 
 ## GitOps
 
