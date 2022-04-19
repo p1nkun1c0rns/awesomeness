@@ -125,10 +125,13 @@
 - [caddy](https://caddyserver.com/) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 - [ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
 - [ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
+- [ghorg](https://github.com/gabrie30/ghorg) - ghorg allows you to quickly clone all of an orgs, or users repos into a single directory.
 
 ## CloudShit
 
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+- [GCP Instances Overview](gcpinstances.info) - GCP Instances Table (With Price, Region and Zone)
+- [Karpenter](https://github.com/aws/karpenter) - Karpenter is an open-source node provisioning project built for Kubernetes. Its goal is to improve the efficiency and cost of running workloads on Kubernetes clusters.
 
 ## Serverless
 
@@ -168,7 +171,9 @@
 - [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
 - [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices
   for running workloads on Kubernetes
-- [Mizu](https://github.com/up9inc/mizu): API traffic viewer for Kubernetes enabling you to view all API communication between microservices.
+- [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices.
+- [Nova](https://github.com/FairwindsOps/Nova) - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
+- [Datree](https://github.com/datreeio/datree) - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations.
 
 ## GitOps
 
@@ -208,6 +213,9 @@
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources
 - [naabu](https://github.com/projectdiscovery/naabu) - Naabu is a port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner. It is a really simple tool that does fast SYN/CONNECT scans on the host/list of hosts and lists all ports that return a reply.
 - [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
+- [Doppler](https://www.doppler.com/) - Sync environment variables at scale
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain or group.
+- [vouch-proxy](https://github.com/vouch/vouch-proxy) - An SSO solution for Nginx using the auth_request module. Vouch Proxy can protect all of your websites at once.
 
 ## Networking
 
