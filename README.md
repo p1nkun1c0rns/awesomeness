@@ -146,6 +146,7 @@
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell.
 - [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with
   `docker` CLI and `docker-compose`
+- [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ### Kubernetes
 
@@ -198,6 +199,7 @@
 - [marktext](https://github.com/marktext/marktext) - A simple and elegant open-source markdown editor that focused on speed and usability.
 - [gh](https://github.com/cli/cli) - `gh` is GitHub on the command line.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about.
+- [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 
 ## Sec
 
@@ -216,6 +218,7 @@
 - [Doppler](https://www.doppler.com/) - Sync environment variables at scale
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain or group.
 - [vouch-proxy](https://github.com/vouch/vouch-proxy) - An SSO solution for Nginx using the auth_request module. Vouch Proxy can protect all of your websites at once.
+- [berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 
 ## Networking
 
@@ -247,3 +250,4 @@
 
 - [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-for-beginnners/) - Vim, A Beginner Guide.
 - [Google Cloud Solutions Architecture Reference](https://gcp.solutions/) - Nice overview about GCP Services.
+- [How to reduce your Prometheus cost](https://medium.com/gumgum-tech/how-to-reduce-your-prometheus-cost-6c7cc685e347) - By reducing your scrape endpoints for managed kubernetes
