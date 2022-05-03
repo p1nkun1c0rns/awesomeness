@@ -51,11 +51,12 @@
 - [readme generator](https://readme.so/editor) - simple editor allows you to quickly add and customize all the sections you need for your project's readme
 - [Tango](https://www.tango.us/) - Create step-by-step documentation with screenshots, in seconds.
 
-## Testframeworks
+## Testing
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
 - [KitchenCI](https://github.com/test-kitchen/test-kitchen) - Infrastructure Code Deserves Tests Too.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [mailtrap](mailtrap.io) - Email Sandbox Service, Capture SMTP traffic from staging and dev environments, Automate test flows and scenarios with flexible API
 
 ## Buildsystems
 
@@ -69,6 +70,8 @@
 ## DesignShit
 
 - [Calico](https://github.com/ix/calico) - Calico is a small utility written in Haskell which is cat but for colors.
+- [colorhunt](https://colorhunt.co/) - Color Palettes for Designers and Artists
+- [Fontjoy](https://fontjoy.com/) - Generate font combinations with deep learning
 
 ## DevShit
 
@@ -126,6 +129,7 @@
 - [ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
 - [ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [ghorg](https://github.com/gabrie30/ghorg) - ghorg allows you to quickly clone all of an orgs, or users repos into a single directory.
+- [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems
 
 ## CloudShit
 
@@ -175,6 +179,7 @@
 - [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices.
 - [Nova](https://github.com/FairwindsOps/Nova) - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - [Datree](https://github.com/datreeio/datree) - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations.
+- [kubepug](https://github.com/rikatz/kubepug) - Verifies the current kubernetes cluster or input files checking whether exists objects in this deprecated API Versions, allowing the user to check before migrating
 
 ## GitOps
 
