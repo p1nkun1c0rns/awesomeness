@@ -70,6 +70,8 @@
 ## DesignShit
 
 - [Calico](https://github.com/ix/calico) - Calico is a small utility written in Haskell which is cat but for colors.
+- [colorhunt](https://colorhunt.co/) - Color Palettes for Designers and Artists
+- [Fontjoy](https://fontjoy.com/) - Generate font combinations with deep learning
 
 ## DevShit
 
