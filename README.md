@@ -51,11 +51,12 @@
 - [readme generator](https://readme.so/editor) - simple editor allows you to quickly add and customize all the sections you need for your project's readme
 - [Tango](https://www.tango.us/) - Create step-by-step documentation with screenshots, in seconds.
 
-## Testframeworks
+## Testing
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
 - [KitchenCI](https://github.com/test-kitchen/test-kitchen) - Infrastructure Code Deserves Tests Too.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [mailtrap](mailtrap.io) - Email Sandbox Service, Capture SMTP traffic from staging and dev environments, Automate test flows and scenarios with flexible API
 
 ## Buildsystems
 
