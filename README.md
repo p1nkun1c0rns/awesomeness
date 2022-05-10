@@ -180,6 +180,7 @@
 - [Nova](https://github.com/FairwindsOps/Nova) - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - [Datree](https://github.com/datreeio/datree) - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations.
 - [kubepug](https://github.com/rikatz/kubepug) - Verifies the current kubernetes cluster or input files checking whether exists objects in this deprecated API Versions, allowing the user to check before migrating
+- [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform
 
 ## GitOps
 
@@ -205,6 +206,8 @@
 - [gh](https://github.com/cli/cli) - `gh` is GitHub on the command line.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about.
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
+- [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 
 ## Sec
 
@@ -224,6 +227,7 @@
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain or group.
 - [vouch-proxy](https://github.com/vouch/vouch-proxy) - An SSO solution for Nginx using the auth_request module. Vouch Proxy can protect all of your websites at once.
 - [berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 
 ## Networking
 
@@ -256,3 +260,6 @@
 - [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-for-beginnners/) - Vim, A Beginner Guide.
 - [Google Cloud Solutions Architecture Reference](https://gcp.solutions/) - Nice overview about GCP Services.
 - [How to reduce your Prometheus cost](https://medium.com/gumgum-tech/how-to-reduce-your-prometheus-cost-6c7cc685e347) - By reducing your scrape endpoints for managed kubernetes
+- [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
