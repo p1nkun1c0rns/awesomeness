@@ -174,8 +174,7 @@
 - [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
 - [kconfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
 - [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
-- [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices
-  for running workloads on Kubernetes
+- [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices for running workloads on Kubernetes
 - [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices.
 - [Nova](https://github.com/FairwindsOps/Nova) - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - [Datree](https://github.com/datreeio/datree) - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations.
