@@ -130,6 +130,10 @@
 - [ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [ghorg](https://github.com/gabrie30/ghorg) - ghorg allows you to quickly clone all of an orgs, or users repos into a single directory.
 - [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems
+- [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
+- [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [tinypilot](https://tinypilotkvm.com/) - TinyPilot KVM over IP Control any computer remotely, also as built your own.
+- [pikvm](https://pikvm.org) - A very simple and fully functional Raspberry Pi-based KVM over IP that you can make with your own hands without any soldering!
 
 ## CloudShit
 
@@ -174,13 +178,13 @@
 - [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
 - [kconfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
 - [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
-- [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices
-  for running workloads on Kubernetes
+- [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices for running workloads on Kubernetes
 - [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices.
 - [Nova](https://github.com/FairwindsOps/Nova) - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - [Datree](https://github.com/datreeio/datree) - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations.
 - [kubepug](https://github.com/rikatz/kubepug) - Verifies the current kubernetes cluster or input files checking whether exists objects in this deprecated API Versions, allowing the user to check before migrating
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform
+- [Loft](https://loft.sh/) - Scale Self-Service For Kubernetes, Meta Kubernetes Cluster on Kubernetes Cluster
 
 ## GitOps
 
