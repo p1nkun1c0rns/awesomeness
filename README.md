@@ -130,6 +130,7 @@
 - [ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [ghorg](https://github.com/gabrie30/ghorg) - ghorg allows you to quickly clone all of an orgs, or users repos into a single directory.
 - [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems
+- [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 
 ## CloudShit
 
