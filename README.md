@@ -132,6 +132,8 @@
 - [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [tinypilot](https://tinypilotkvm.com/) - TinyPilot KVM over IP Control any computer remotely, also as built your own.
+- [pikvm](https://pikvm.org) - A very simple and fully functional Raspberry Pi-based KVM over IP that you can make with your own hands without any soldering!
 
 ## CloudShit
 
