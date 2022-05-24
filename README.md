@@ -212,6 +212,7 @@
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [gotz](https://github.com/merschformann/gotz) - a simple CLI timezone info tool.
 
 ## Sec
 
