@@ -50,6 +50,9 @@
 - [SheetBest](https://sheet.best) - Convert SpreatSheets into APIs
 - [readme generator](https://readme.so/editor) - simple editor allows you to quickly add and customize all the sections you need for your project's readme
 - [Tango](https://www.tango.us/) - Create step-by-step documentation with screenshots, in seconds.
+- [http.cat](https://http.cat/) - Return CATS!!!!
+- [wttr.in](https://wttr.in) - the right way to curl the weather!
+- [typelit](https://www.typelit.io/) - Improve your typing online by practicing on your favorite literature.
 
 ## Testing
 
@@ -212,6 +215,8 @@
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [gotz](https://github.com/merschformann/gotz) - a simple CLI timezone info tool.
+- [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
 
 ## Sec
 
@@ -245,6 +250,8 @@
 - [NetBox](https://github.com/netbox-community/netbox) - NetBox is an infrastructure resource modeling (IRM) tool designed to empower network automation
 - [traefik](https://traefik.io/) - The simplest, most comprehensive cloud-native Ingress, but can also used on VMs if you need
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
+- [gns3](https://www.gns3.com) - multivendor network emulation software, open-source.
+- [eve-ng](https://www.eve-ng.net/) - EVE-NG PRO is the first clientless multivendor network emulation software.
 
 ## Talks
 
