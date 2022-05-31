@@ -1,0 +1,19 @@
+---
+name: Resubmit Bot
+on:
+  schedule:
+    - cron: "17 4 * * *"
+jobs:
+  resubmit-bot-job:
+    runs-on: ubuntu-latest
+    name: Automatically resubmit labeled issues
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Resubmit issues action step
+        uses: MediaMarktSaturn/ccoe-resubmit-action@0.1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
