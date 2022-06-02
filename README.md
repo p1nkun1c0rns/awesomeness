@@ -30,6 +30,7 @@
 - [Talks](#talks)
 - [MacShit](#macshit)
 - [Articles](#articles)
+- [Educational](#educational)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -95,6 +96,7 @@
 - [jo](https://github.com/jpmens/jo) – A small utility to create JSON objects
 - [free-for-dev](https://github.com/ripienaar/free-for-dev#dev-blogging-sites): Extensive list of free tiers and other free
   development resources
+- [watchexec](https://github.com/watchexec/watchexec) – Watches a path and runs a command whenever it detects modifications, respects gitignore (similar to `entr`)
 
 ## GitShit
 
@@ -137,6 +139,7 @@
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [tinypilot](https://tinypilotkvm.com/) - TinyPilot KVM over IP Control any computer remotely, also as built your own.
 - [pikvm](https://pikvm.org) - A very simple and fully functional Raspberry Pi-based KVM over IP that you can make with your own hands without any soldering!
+- [btop](https://github.com/aristocratos/btop) and [bottom](https://github.com/ClementTsang/bottom) are both graphical process/system monitor for the terminal. `btop` is significantly prettier.
 
 ## CloudShit
 
@@ -217,6 +220,10 @@
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [gotz](https://github.com/merschformann/gotz) - a simple CLI timezone info tool.
 - [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
+- [rmlint](https://github.com/sahib/rmlint) – finds space waste and other broken things on your filesystem and offers to remove it
+- [gpg-tui](https://github.com/orhun/gpg-tui) – A TUI for GPG
+- [age](https://github.com/FiloSottile/age) – age is a simple, modern and secure file encryption tool, format, and Go library. Supports encrypting with/against SSH keys (e.g. pubkeys from GitHub)
+- [Boop](https://github.com/IvanMathy/Boop) – A scriptable scratchpad for developers (macOS)
 
 ## Sec
 
@@ -274,3 +281,7 @@
 - [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+
+## Educational
+
+- [GameShell](https://github.com/phyver/GameShell): A (pretty cute!) "game" to teach the Unix shell

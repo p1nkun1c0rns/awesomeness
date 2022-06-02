@@ -68,6 +68,7 @@ body:
         - Talks
         - MacShit
         - Articles
+        - Educational
         - Somewhere else (please specify in the description!)
     validations:
       required: true
