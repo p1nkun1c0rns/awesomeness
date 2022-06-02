@@ -30,6 +30,7 @@
 - [Talks](#talks)
 - [MacShit](#macshit)
 - [Articles](#articles)
+- [Educational](#educational)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
