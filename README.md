@@ -274,6 +274,7 @@
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.
 - [PAW](https://paw.cloud/) - Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. #OnlyMac
 - [m-cli](https://github.com/rgcr/m-cli) - m-cli is a macOS command line tool that lets you interact with utilities and applications entirely in Terminal.
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control your display's brightness & volume on your Mac as if it was a native Apple Display.
 
 ## Articles
 
