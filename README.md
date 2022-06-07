@@ -225,6 +225,7 @@
 - [gpg-tui](https://github.com/orhun/gpg-tui) – A TUI for GPG
 - [age](https://github.com/FiloSottile/age) – age is a simple, modern and secure file encryption tool, format, and Go library. Supports encrypting with/against SSH keys (e.g. pubkeys from GitHub)
 - [Boop](https://github.com/IvanMathy/Boop) – A scriptable scratchpad for developers (macOS)
+- [gh-repo-fzf](https://github.com/kavinvalli/gh-repo-fzf) - A gh cli to fuzzy search your repositories and do an action with them.
 
 ## Sec
 
