@@ -54,6 +54,7 @@
 - [http.cat](https://http.cat/) - Return CATS!!!!
 - [wttr.in](https://wttr.in) - the right way to curl the weather!
 - [typelit](https://www.typelit.io/) - Improve your typing online by practicing on your favorite literature.
+- [miro](https://miro.com/) - The whiteboard platform that brings teams together online together - anywhere and anytime!
 
 ## Testing
 
@@ -140,6 +141,8 @@
 - [tinypilot](https://tinypilotkvm.com/) - TinyPilot KVM over IP Control any computer remotely, also as built your own.
 - [pikvm](https://pikvm.org) - A very simple and fully functional Raspberry Pi-based KVM over IP that you can make with your own hands without any soldering!
 - [btop](https://github.com/aristocratos/btop) and [bottom](https://github.com/ClementTsang/bottom) are both graphical process/system monitor for the terminal. `btop` is significantly prettier.
+- [warpgate](https://github.com/warp-tech/warpgate) - SSH bastion host for Linux that can be used with SSH client. Single binary, recordings of every session, transparent connection forwarding.
+- [duf](https://github.com/sigoden/duf) - Duf is a simple file server. Support static serve, search, upload and webdav
 
 ## CloudShit
 
@@ -224,6 +227,11 @@
 - [gpg-tui](https://github.com/orhun/gpg-tui) – A TUI for GPG
 - [age](https://github.com/FiloSottile/age) – age is a simple, modern and secure file encryption tool, format, and Go library. Supports encrypting with/against SSH keys (e.g. pubkeys from GitHub)
 - [Boop](https://github.com/IvanMathy/Boop) – A scriptable scratchpad for developers (macOS)
+- [gh-repo-fzf](https://github.com/kavinvalli/gh-repo-fzf) - A gh cli to fuzzy search your repositories and do an action with them.
+- [viu](https://github.com/atanunq/viu) - A small command-line application to view images from the terminal written in Rust.
+- [dyff](https://github.com/homeport/dyff) - A diff tool for YAML files, and sometimes JSON
+- [yiq](https://github.com/zoetrope/yiq) - You can drill down interactively by using yq filtering queries.
+- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 
 ## Sec
 
@@ -272,6 +280,7 @@
 - [Termshark](https://github.com/gcla/termshark) - A terminal user-interface for tshark, inspired by Wireshark.
 - [PAW](https://paw.cloud/) - Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. #OnlyMac
 - [m-cli](https://github.com/rgcr/m-cli) - m-cli is a macOS command line tool that lets you interact with utilities and applications entirely in Terminal.
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control your display's brightness & volume on your Mac as if it was a native Apple Display.
 
 ## Articles
 
