@@ -228,6 +228,7 @@
 - [gh-repo-fzf](https://github.com/kavinvalli/gh-repo-fzf) - A gh cli to fuzzy search your repositories and do an action with them.
 - [viu](https://github.com/atanunq/viu) - A small command-line application to view images from the terminal written in Rust.
 - [dyff](https://github.com/homeport/dyff) - A diff tool for YAML files, and sometimes JSON
+- [yiq](https://github.com/zoetrope/yiq) - You can drill down interactively by using yq filtering queries.
 
 ## Sec
 
