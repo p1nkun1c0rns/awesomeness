@@ -141,6 +141,7 @@
 - [tinypilot](https://tinypilotkvm.com/) - TinyPilot KVM over IP Control any computer remotely, also as built your own.
 - [pikvm](https://pikvm.org) - A very simple and fully functional Raspberry Pi-based KVM over IP that you can make with your own hands without any soldering!
 - [btop](https://github.com/aristocratos/btop) and [bottom](https://github.com/ClementTsang/bottom) are both graphical process/system monitor for the terminal. `btop` is significantly prettier.
+- [warpgate](https://github.com/warp-tech/warpgate) - SSH bastion host for Linux that can be used with SSH client. Single binary, recordings of every session, transparent connection forwarding.
 
 ## CloudShit
 
