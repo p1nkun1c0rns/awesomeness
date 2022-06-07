@@ -226,6 +226,7 @@
 - [age](https://github.com/FiloSottile/age) – age is a simple, modern and secure file encryption tool, format, and Go library. Supports encrypting with/against SSH keys (e.g. pubkeys from GitHub)
 - [Boop](https://github.com/IvanMathy/Boop) – A scriptable scratchpad for developers (macOS)
 - [gh-repo-fzf](https://github.com/kavinvalli/gh-repo-fzf) - A gh cli to fuzzy search your repositories and do an action with them.
+- [viu](https://github.com/atanunq/viu) - A small command-line application to view images from the terminal written in Rust.
 
 ## Sec
 
