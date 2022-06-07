@@ -54,6 +54,7 @@
 - [http.cat](https://http.cat/) - Return CATS!!!!
 - [wttr.in](https://wttr.in) - the right way to curl the weather!
 - [typelit](https://www.typelit.io/) - Improve your typing online by practicing on your favorite literature.
+- [miro](https://miro.com/) - The whiteboard platform that brings teams together online together - anywhere and anytime!
 
 ## Testing
 
