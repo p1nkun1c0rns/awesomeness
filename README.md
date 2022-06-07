@@ -142,6 +142,7 @@
 - [pikvm](https://pikvm.org) - A very simple and fully functional Raspberry Pi-based KVM over IP that you can make with your own hands without any soldering!
 - [btop](https://github.com/aristocratos/btop) and [bottom](https://github.com/ClementTsang/bottom) are both graphical process/system monitor for the terminal. `btop` is significantly prettier.
 - [warpgate](https://github.com/warp-tech/warpgate) - SSH bastion host for Linux that can be used with SSH client. Single binary, recordings of every session, transparent connection forwarding.
+- [duf](https://github.com/sigoden/duf) - Duf is a simple file server. Support static serve, search, upload and webdav
 
 ## CloudShit
 
@@ -230,6 +231,7 @@
 - [viu](https://github.com/atanunq/viu) - A small command-line application to view images from the terminal written in Rust.
 - [dyff](https://github.com/homeport/dyff) - A diff tool for YAML files, and sometimes JSON
 - [yiq](https://github.com/zoetrope/yiq) - You can drill down interactively by using yq filtering queries.
+- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 
 ## Sec
 
