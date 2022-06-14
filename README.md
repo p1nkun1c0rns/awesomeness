@@ -143,6 +143,7 @@
 - [btop](https://github.com/aristocratos/btop) and [bottom](https://github.com/ClementTsang/bottom) are both graphical process/system monitor for the terminal. `btop` is significantly prettier.
 - [warpgate](https://github.com/warp-tech/warpgate) - SSH bastion host for Linux that can be used with SSH client. Single binary, recordings of every session, transparent connection forwarding.
 - [duf](https://github.com/sigoden/duf) - Duf is a simple file server. Support static serve, search, upload and webdav
+- [Awesome Prometheus Alerts](https://awesome-prometheus-alerts.grep.to/) - Collection of alerting rules
 
 ## CloudShit
 
