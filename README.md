@@ -254,6 +254,7 @@
 - [vouch-proxy](https://github.com/vouch/vouch-proxy) - An SSO solution for Nginx using the auth_request module. Vouch Proxy can protect all of your websites at once.
 - [berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+- [secretive](https://github.com/maxgoedjen/secretive) - Secretive is an app for storing and managing SSH keys in the Secure Enclave.
 
 ## Networking
 
