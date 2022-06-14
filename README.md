@@ -98,6 +98,7 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev#dev-blogging-sites): Extensive list of free tiers and other free
   development resources
 - [watchexec](https://github.com/watchexec/watchexec) – Watches a path and runs a command whenever it detects modifications, respects gitignore (similar to `entr`)
+- [Quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a cloud-native search engine for log management & analytics. It is designed to be very cost-effective, easy to operate, and scale to petabytes.
 
 ## GitShit
 
