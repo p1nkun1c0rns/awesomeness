@@ -98,6 +98,7 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev#dev-blogging-sites): Extensive list of free tiers and other free
   development resources
 - [watchexec](https://github.com/watchexec/watchexec) – Watches a path and runs a command whenever it detects modifications, respects gitignore (similar to `entr`)
+- [Quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a cloud-native search engine for log management & analytics. It is designed to be very cost-effective, easy to operate, and scale to petabytes.
 
 ## GitShit
 
@@ -143,6 +144,7 @@
 - [btop](https://github.com/aristocratos/btop) and [bottom](https://github.com/ClementTsang/bottom) are both graphical process/system monitor for the terminal. `btop` is significantly prettier.
 - [warpgate](https://github.com/warp-tech/warpgate) - SSH bastion host for Linux that can be used with SSH client. Single binary, recordings of every session, transparent connection forwarding.
 - [duf](https://github.com/sigoden/duf) - Duf is a simple file server. Support static serve, search, upload and webdav
+- [Awesome Prometheus Alerts](https://awesome-prometheus-alerts.grep.to/) - Collection of alerting rules
 
 ## CloudShit
 
@@ -232,6 +234,7 @@
 - [dyff](https://github.com/homeport/dyff) - A diff tool for YAML files, and sometimes JSON
 - [yiq](https://github.com/zoetrope/yiq) - You can drill down interactively by using yq filtering queries.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
+- [yadm](https://github.com/TheLocehiliosan/yadm) - yadm is a tool for managing dotfiles.
 
 ## Sec
 
@@ -252,6 +255,7 @@
 - [vouch-proxy](https://github.com/vouch/vouch-proxy) - An SSO solution for Nginx using the auth_request module. Vouch Proxy can protect all of your websites at once.
 - [berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+- [secretive](https://github.com/maxgoedjen/secretive) - Secretive is an app for storing and managing SSH keys in the Secure Enclave.
 
 ## Networking
 
