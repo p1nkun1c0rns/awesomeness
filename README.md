@@ -239,6 +239,7 @@
 - [yiq](https://github.com/zoetrope/yiq) - You can drill down interactively by using yq filtering queries.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - yadm is a tool for managing dotfiles.
+- [doitlive](https://github.com/sloria/doitlive) - doitlive is a tool for live presentations in the terminal.
 
 ## Sec
 
