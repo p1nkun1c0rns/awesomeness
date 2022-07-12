@@ -10,7 +10,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Online Services](#online-services)
 - [Testframeworks](#testframeworks)
 - [Buildsystems](#buildsystems)
@@ -179,7 +178,7 @@
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development.
 - [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-- [flagger](https://flagger.app/) -  Progressive Delivery Operator for Kubernetes.
+- [flagger](https://flagger.app/) - Progressive Delivery Operator for Kubernetes.
 - [Kubernetes Debug Guide](https://learnk8s.io/troubleshooting-deployments) - A visual guide on troubleshooting Kubernetes deployments.
 - [k3d](https://github.com/rancher/k3d) - k3d creates containerized k3s clusters.
 - [kail](https://github.com/boz/kail) - Kubernetes tail. Streams logs from all containers of all matched pods.
