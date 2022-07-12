@@ -154,6 +154,7 @@
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [GCP Instances Overview](gcpinstances.info) - GCP Instances Table (With Price, Region and Zone)
 - [Karpenter](https://github.com/aws/karpenter) - Karpenter is an open-source node provisioning project built for Kubernetes. Its goal is to improve the efficiency and cost of running workloads on Kubernetes clusters.
+- [viddy](https://github.com/sachaos/viddy) - Modern watch command. Viddy well, gopher. Viddy well.
 
 ## Serverless
 
