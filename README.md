@@ -100,6 +100,7 @@
   development resources
 - [watchexec](https://github.com/watchexec/watchexec) – Watches a path and runs a command whenever it detects modifications, respects gitignore (similar to `entr`)
 - [Quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a cloud-native search engine for log management & analytics. It is designed to be very cost-effective, easy to operate, and scale to petabytes.
+- [nats.io](https://nats.io) - Connective Technology for Adaptive Edge & Distributed Systems
 - [dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data!
 
 ## GitShit
@@ -170,6 +171,7 @@
 - [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with
   `docker` CLI and `docker-compose`
 - [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
 
 ### Kubernetes
 
@@ -205,6 +207,8 @@
 
 - [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 - [Crossplane](https://github.com/crossplane/crossplane) - Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume
+- [kubecolor](https://github.com/hidetatz/kubecolor) - Colorize your kubectl output
+- [keda](https://keda.sh/) - Kubernetes Event-driven Autoscaling
 
 ## Productivity
 
@@ -239,6 +243,8 @@
 - [yiq](https://github.com/zoetrope/yiq) - You can drill down interactively by using yq filtering queries.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - yadm is a tool for managing dotfiles.
+- [markwhen](https://github.com/kochrt/markwhen) - Make a cascading timeline from markdown-like text
+- [markmap](https://markmap.js.org) - Visualize your Markdown with mindmaps
 - [doitlive](https://github.com/sloria/doitlive) - doitlive is a tool for live presentations in the terminal.
 
 ## Sec
