@@ -10,7 +10,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Online Services](#online-services)
 - [Testframeworks](#testframeworks)
 - [Buildsystems](#buildsystems)
@@ -71,6 +70,7 @@
 
 - [huber](https://github.com/innobead/huber) - Huber is to simplify the package management from GitHub projects with a builtin awesome list (live updating) of popular projects
 - [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool
+- [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development) - is an agile software development process that encourages collaboration among developers, quality assurance testers, and customer representatives in a software project.
 
 ## DesignShit
 
@@ -99,6 +99,8 @@
   development resources
 - [watchexec](https://github.com/watchexec/watchexec) – Watches a path and runs a command whenever it detects modifications, respects gitignore (similar to `entr`)
 - [Quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a cloud-native search engine for log management & analytics. It is designed to be very cost-effective, easy to operate, and scale to petabytes.
+- [nats.io](https://nats.io) - Connective Technology for Adaptive Edge & Distributed Systems
+- [dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data!
 
 ## GitShit
 
@@ -122,6 +124,7 @@
 - [git-prune](https://github.com/git/git/blob/bb80ee09974667a1db6bbc5e33574ed869b76a88/Documentation/RelNotes/1.8.5.txt#L99-L101) - git config remote.origin.prune true
 - [git-notify](https://github.com/jevakallio/git-notify) - Communicate important updates to your team via git commit messages.
 - [https://gitexplorer.com/](gitexplorer) - help you to find the right command.
+- [Git Repo Manager (GRM for short)](https://hakoerber.github.io/git-repo-manager/overview.html) - A tool that helps you manage git repositories in a declarative way, with a focus on git-worktree
 
 ## OpsShit
 
@@ -151,6 +154,7 @@
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [GCP Instances Overview](gcpinstances.info) - GCP Instances Table (With Price, Region and Zone)
 - [Karpenter](https://github.com/aws/karpenter) - Karpenter is an open-source node provisioning project built for Kubernetes. Its goal is to improve the efficiency and cost of running workloads on Kubernetes clusters.
+- [viddy](https://github.com/sachaos/viddy) - Modern watch command. Viddy well, gopher. Viddy well.
 
 ## Serverless
 
@@ -166,6 +170,7 @@
 - [colima](https://github.com/abiosoft/colima) – Docker for Mac replacement with M1 support, Kubernetes. Works with
   `docker` CLI and `docker-compose`
 - [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
 
 ### Kubernetes
 
@@ -173,7 +178,7 @@
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development.
 - [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-- [flagger](https://flagger.app/) -  Progressive Delivery Operator for Kubernetes.
+- [flagger](https://flagger.app/) - Progressive Delivery Operator for Kubernetes.
 - [Kubernetes Debug Guide](https://learnk8s.io/troubleshooting-deployments) - A visual guide on troubleshooting Kubernetes deployments.
 - [k3d](https://github.com/rancher/k3d) - k3d creates containerized k3s clusters.
 - [kail](https://github.com/boz/kail) - Kubernetes tail. Streams logs from all containers of all matched pods.
@@ -201,6 +206,8 @@
 
 - [GitOps](https://www.weave.works/technologies/gitops) - GitOps is a way to do Kubernetes cluster management and application delivery.
 - [Crossplane](https://github.com/crossplane/crossplane) - Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume
+- [kubecolor](https://github.com/hidetatz/kubecolor) - Colorize your kubectl output
+- [keda](https://keda.sh/) - Kubernetes Event-driven Autoscaling
 
 ## Productivity
 
@@ -235,6 +242,9 @@
 - [yiq](https://github.com/zoetrope/yiq) - You can drill down interactively by using yq filtering queries.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - yadm is a tool for managing dotfiles.
+- [markwhen](https://github.com/kochrt/markwhen) - Make a cascading timeline from markdown-like text
+- [markmap](https://markmap.js.org) - Visualize your Markdown with mindmaps
+- [doitlive](https://github.com/sloria/doitlive) - doitlive is a tool for live presentations in the terminal.
 
 ## Sec
 
