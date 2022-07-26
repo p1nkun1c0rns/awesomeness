@@ -54,6 +54,7 @@
 - [wttr.in](https://wttr.in) - the right way to curl the weather!
 - [typelit](https://www.typelit.io/) - Improve your typing online by practicing on your favorite literature.
 - [miro](https://miro.com/) - The whiteboard platform that brings teams together online together - anywhere and anytime!
+- [prose.sh](https://prose.sh/) - a blog platform for hackers
 
 ## Testing
 
@@ -202,6 +203,7 @@
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform
 - [Loft](https://loft.sh/) - Scale Self-Service For Kubernetes, Meta Kubernetes Cluster on Kubernetes Cluster
 - [k8syaml.com](https://k8syaml.com/) - Kubernetes YAML Generator
+- [chaos-mesh](https://chaos-mesh.org/) - A Powerful Chaos Engineering Platform for Kubernetes
 
 ## GitOps
 
@@ -283,6 +285,7 @@
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [gns3](https://www.gns3.com) - multivendor network emulation software, open-source.
 - [eve-ng](https://www.eve-ng.net/) - EVE-NG PRO is the first clientless multivendor network emulation software.
+- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## Talks
 
