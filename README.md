@@ -267,6 +267,7 @@
 - [berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [secretive](https://github.com/maxgoedjen/secretive) - Secretive is an app for storing and managing SSH keys in the Secure Enclave.
+- [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research
 
 ## Networking
 
