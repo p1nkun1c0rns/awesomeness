@@ -201,6 +201,7 @@
 - [kubepug](https://github.com/rikatz/kubepug) - Verifies the current kubernetes cluster or input files checking whether exists objects in this deprecated API Versions, allowing the user to check before migrating
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform
 - [Loft](https://loft.sh/) - Scale Self-Service For Kubernetes, Meta Kubernetes Cluster on Kubernetes Cluster
+- [k8syaml.com](https://k8syaml.com/) - Kubernetes YAML Generator
 
 ## GitOps
 
