@@ -102,6 +102,7 @@
 - [Quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a cloud-native search engine for log management & analytics. It is designed to be very cost-effective, easy to operate, and scale to petabytes.
 - [nats.io](https://nats.io) - Connective Technology for Adaptive Edge & Distributed Systems
 - [dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data!
+- [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts.
 
 ## GitShit
 
