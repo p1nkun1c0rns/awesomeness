@@ -205,6 +205,7 @@
 - [Loft](https://loft.sh/) - Scale Self-Service For Kubernetes, Meta Kubernetes Cluster on Kubernetes Cluster
 - [k8syaml.com](https://k8syaml.com/) - Kubernetes YAML Generator
 - [chaos-mesh](https://chaos-mesh.org/) - A Powerful Chaos Engineering Platform for Kubernetes
+- [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices
 
 ## GitOps
 
