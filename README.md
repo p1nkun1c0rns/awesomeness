@@ -102,6 +102,7 @@
 - [Quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a cloud-native search engine for log management & analytics. It is designed to be very cost-effective, easy to operate, and scale to petabytes.
 - [nats.io](https://nats.io) - Connective Technology for Adaptive Edge & Distributed Systems
 - [dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data!
+- [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts.
 
 ## GitShit
 
@@ -204,6 +205,7 @@
 - [Loft](https://loft.sh/) - Scale Self-Service For Kubernetes, Meta Kubernetes Cluster on Kubernetes Cluster
 - [k8syaml.com](https://k8syaml.com/) - Kubernetes YAML Generator
 - [chaos-mesh](https://chaos-mesh.org/) - A Powerful Chaos Engineering Platform for Kubernetes
+- [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices
 
 ## GitOps
 
