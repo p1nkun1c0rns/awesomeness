@@ -87,7 +87,6 @@
 - [Stein](https://github.com/SteinHQ/Stein) - Ship fast and manage your data with ease. Connect to Google Sheets.
 - [gatling.io](https://gatling.io/) - The best developer tool to load test your web applications.
 - [httpie](https://httpie.org/) - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more
-- [Markserv](https://github.com/markserv/markserv) - serve markdown as html (GitHub style), index directories, and live-reload as you edit.
 - [script](https://github.com/bitfield/script) - A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 - [Go Report Card](https://goreportcard.com/) - A report card for your Go application.
