@@ -102,6 +102,7 @@
 - [nats.io](https://nats.io) - Connective Technology for Adaptive Edge & Distributed Systems
 - [dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data!
 - [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts.
+- [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) – A list of strings that might be problematic (mis-identified as swear words, broken emoji, different scripts, ...)
 
 ## GitShit
 
@@ -160,6 +161,7 @@
 ## Serverless
 
 - [OpenFaaS](https://github.com/openfaas/faas/) - Serverless Functions Made Simple.
+- [Serverless DNS](https://github.com/serverless-dns/serverless-dns) – A serverless DNS implementation for Cloudflare Workers and other serverless runtimes
 
 ## IaaC
 
@@ -288,6 +290,8 @@
 - [gns3](https://www.gns3.com) - multivendor network emulation software, open-source.
 - [eve-ng](https://www.eve-ng.net/) - EVE-NG PRO is the first clientless multivendor network emulation software.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [hosts](https://github.com/xwmx/hosts) – A CLI for managing /etc/hosts entries
+- [hurl](https://hurl.dev/) – A CLI for running HTTP requests defined in a plain text format. Can do asserts on the result,including xpath, jsonpath.
 
 ## Talks
 
