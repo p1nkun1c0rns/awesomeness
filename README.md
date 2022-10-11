@@ -252,6 +252,8 @@
 - [markwhen](https://github.com/kochrt/markwhen) - Make a cascading timeline from markdown-like text
 - [markmap](https://markmap.js.org) - Visualize your Markdown with mindmaps
 - [doitlive](https://github.com/sloria/doitlive) - doitlive is a tool for live presentations in the terminal.
+- [fastfetch](https://github.com/LinusDierheimer/fastfetch) – Display information on machine, operating system and shell
+- [oh-my-posh](https://ohmyposh.dev/) and [starship](https://starship.rs/): Configurable shell prompts with options to display git status, Kubernetes context, and more.
 
 ## Sec
 
