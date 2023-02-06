@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: "13.x"
 
-      - uses: actions/cache@v3.2.3
+      - uses: actions/cache@v3.2.4
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
