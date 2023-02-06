@@ -14,7 +14,7 @@
     "audit": "node node_modules/better-npm-audit audit -i 1550"
   },
   "dependencies": {
-    "awesome-lint": "^0.18.1",
+    "awesome-lint": "^0.18.2",
     "better-npm-audit": "^3.7.3",
     "doctoc": "^2.2.1",
     "jshint": "^2.13.6",
