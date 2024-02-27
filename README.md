@@ -1,5 +1,7 @@
 <!--lint disable awesome-github -->
 <!--lint disable awesome-git-repo-age -->
+<!--lint disable awesome-list-item-->
+<!--lint disable double-link-->
 
 # Innovation Weekly
 
@@ -11,13 +13,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Online Services](#online-services)
-- [Testframeworks](#testframeworks)
+- [Testing](#testing)
 - [Buildsystems](#buildsystems)
 - [Packagemanager](#packagemanager)
 - [DesignShit](#designshit)
 - [DevShit](#devshit)
 - [GitShit](#gitshit)
 - [OpsShit](#opsshit)
+- [CloudShit](#cloudshit)
 - [Serverless](#serverless)
 - [IaaC](#iaac)
 - [Containers](#containers)
@@ -50,7 +53,7 @@
 - [SheetBest](https://sheet.best) - Convert SpreatSheets into APIs
 - [readme generator](https://readme.so/editor) - simple editor allows you to quickly add and customize all the sections you need for your project's readme
 - [Tango](https://www.tango.us/) - Create step-by-step documentation with screenshots, in seconds.
-- [http.cat](https://http.cat/) - Return CATS!!!!
+- [http.cat](https://http.cat/) - Return CATS!
 - [wttr.in](https://wttr.in) - the right way to curl the weather!
 - [typelit](https://www.typelit.io/) - Improve your typing online by practicing on your favorite literature.
 - [miro](https://miro.com/) - The whiteboard platform that brings teams together online together - anywhere and anytime!
@@ -102,11 +105,11 @@
 - [nats.io](https://nats.io) - Connective Technology for Adaptive Edge & Distributed Systems
 - [dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data!
 - [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts.
-- [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) – A list of strings that might be problematic (mis-identified as swear words, broken emoji, different scripts, ...)
+- [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) – A list of strings that might be problematic (mis-identified as swear words, broken emoji, different scripts, etc.)
 
 ## GitShit
 
-- [GitStalk](https://gitstalk.netlify.app) - Stalk github activities.
+- [GitStalk](https://gitstalk.netlify.app) - Stalk GitHub activities.
 - [Fire](https://fire.fundersclub.com/#SetUp) - Mail2GitHub.
 - [Git with Multiple Email Addresses](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/) - Git with Multiple Email Addresses.
 - [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well, Multilang!
@@ -198,7 +201,6 @@
 - [kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo application for Kubernetes
 - [kconfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
 - [helm-docs](https://github.com/norwoodj/helm-docs) - The helm-docs tool auto-generates documentation from helm charts into markdown files.
-- [Kubernetes Production Best Practices](https://learnk8s.io/production-best-practices): Extensive list of best practices for running workloads on Kubernetes
 - [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices.
 - [Nova](https://github.com/FairwindsOps/Nova) - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
 - [Datree](https://github.com/datreeio/datree) - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations.
