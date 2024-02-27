@@ -150,6 +150,7 @@
 - [warpgate](https://github.com/warp-tech/warpgate) - SSH bastion host for Linux that can be used with SSH client. Single binary, recordings of every session, transparent connection forwarding.
 - [duf](https://github.com/sigoden/duf) - Duf is a simple file server. Support static serve, search, upload and webdav
 - [Awesome Prometheus Alerts](https://awesome-prometheus-alerts.grep.to/) - Collection of alerting rules
+- [toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL)
 
 ## CloudShit
 
