@@ -222,6 +222,7 @@
 - [Crossplane](https://github.com/crossplane/crossplane) - Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume
 - [kubecolor](https://github.com/hidetatz/kubecolor) - Colorize your kubectl output
 - [keda](https://keda.sh/) - Kubernetes Event-driven Autoscaling
+- [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
 
 ## Productivity
 
