@@ -107,6 +107,7 @@
 - [Glow](https://github.com/charmbracelet/glow) - Render Markdown on the command line beautifully.
 - [rmlint](https://github.com/sahib/rmlint) - Find space waste and broken things on your filesystem.
 - [age](https://github.com/FiloSottile/age) - Simple and secure file encryption.
+- [pipet](https://github.com/bjesus/pipet) - a swiss-army tool for scraping and extracting data from online assets, made for hackers
 
 ## 🔒 Security
 
