@@ -109,6 +109,7 @@
 - [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts.
 - [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) – A list of strings that might be problematic (mis-identified as swear words, broken emoji, different scripts, etc.)
 - [webhook.site](https://webhook.site/) - Webhook.site generates free, unique URLs and e-mail addresses and lets you see everything thats sent there instantly.
+- [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
 
 ## GitShit
 
