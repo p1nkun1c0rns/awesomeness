@@ -1,6 +1,7 @@
 <!--lint disable awesome-github -->
 <!--lint disable awesome-git-repo-age -->
 <!--lint disable awesome-list-item-->
+<!--lint disable awesome-toc-->
 <!--lint disable double-link-->
 
 # Innovation Weekly
