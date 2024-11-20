@@ -111,6 +111,7 @@
 - [pipet](https://github.com/bjesus/pipet) - a swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - Magical shell history!
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - presenterm lets you create presentations in markdown format and run them from your terminal!
 
 ## 🔒 Security
 
