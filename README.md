@@ -127,6 +127,7 @@
 - [ngrok](https://ngrok.com) - Secure URLs for localhost servers.
 - [traefik](https://traefik.io/) - Cloud-native ingress for HTTP and reverse proxy.
 - [Termshark](https://github.com/gcla/termshark) - A terminal-based UI for `tshark`.
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues.
 
 ## 💻 Development
 
