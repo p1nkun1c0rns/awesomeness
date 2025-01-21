@@ -121,6 +121,7 @@
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Discover valid subdomains for websites.
 - [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security auditing tool.
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 
 ## 🌐 Networking
 
