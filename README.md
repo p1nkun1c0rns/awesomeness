@@ -130,6 +130,7 @@
 - [traefik](https://traefik.io/) - Cloud-native ingress for HTTP and reverse proxy.
 - [Termshark](https://github.com/gcla/termshark) - A terminal-based UI for `tshark`.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues.
+- [alebeck/boring](https://github.com/alebeck/boring) - A simple command line SSH tunnel manager that just works.
 
 ## 💻 Development
 
@@ -146,6 +147,7 @@
 - [Calico](https://github.com/ix/calico) - A color-aware replacement for `cat`.
 - [colorhunt](https://colorhunt.co/) - Curated color palettes for designers.
 - [Fontjoy](https://fontjoy.com/) - Generate font combinations with deep learning.
+- [Achno/gowall](https://github.com/Achno/gowall) - Gowall is a tool to convert an image ( specifically a wallpaper ) to any color-scheme / pallete you like!
 
 ## 🔧 Git
 
