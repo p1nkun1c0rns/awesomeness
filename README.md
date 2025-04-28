@@ -143,6 +143,7 @@
 - [jo](https://github.com/jpmens/jo) – A small utility to create JSON objects.
 - [nats.io](https://nats.io) - Connective technology for adaptive edge & distributed systems.
 - [quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics.
+- [iHateRegex](https://ihateregex.io) - A regex cheatsheet for the haters.
 
 ## 🎨 Design
 
