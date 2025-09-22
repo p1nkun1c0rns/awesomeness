@@ -114,7 +114,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - presenterm lets you create presentations in markdown format and run them from your terminal!
 - [alexpasmantier/television](https://github.com/alexpasmantier/television/) - fzf with more TUI
 - [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) - Process Interactive Kill
-- [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands.
+- [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for Git commands.
 
 ## 🔒 Security
 
@@ -154,7 +154,7 @@
 
 ## 🔧 Git
 
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets.
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Audit Git repos for secrets.
 - [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide) - Multilingual guide on writing commit messages effectively.
 - [Git with Multiple Email Addresses](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/) - Use multiple email addresses with Git easily.
 

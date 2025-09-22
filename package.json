@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "awesome-lint": "^2.0.0",
+    "awesome-lint": "^2.1.0",
     "doctoc": "^2.2.1"
   }
 }
