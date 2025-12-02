@@ -202,6 +202,7 @@
 - [How to Reduce Your Prometheus Cost](https://medium.com/gumgum-tech/how-to-reduce-your-prometheus-cost-6c7cc685e347) - Cost-saving tips for Prometheus.
 - [howtheysre](https://github.com/upgundecha/howtheysre) - Public resources on Site Reliability Engineering (SRE).
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - Patterns for scalable, reliable, and performant systems.
+- [Django project template](https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/) - Proposal for a Django project template.
 
 ## 🎓 Educational Resources
 
