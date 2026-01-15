@@ -115,7 +115,7 @@
 - [alexpasmantier/television](https://github.com/alexpasmantier/television/) - fzf with more TUI
 - [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) - Process Interactive Kill
 - [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for Git commands.
-- [Espanso](espanso.org) - A Privacy-first, Cross-platform Text Expander written in Rust
+- [Espanso](https://espanso.org) - A Privacy-first, Cross-platform Text Expander written in Rust
 
 ## 🔒 Security
 
