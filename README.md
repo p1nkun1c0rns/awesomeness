@@ -165,6 +165,7 @@
 - [Netdata](https://github.com/netdata/netdata) - Real-time performance monitoring.
 - [GoAccess](https://github.com/allinurl/goaccess) - Open-source web log analyzer with terminal viewer.
 - [Caddy](https://caddyserver.com/) - Enterprise-ready web server with automatic HTTPS.
+- [witr](https://github.com/pranshuparmar/witr) - A CLI tool which tells you why a process is running.
 
 ## 🧪 Testing
 
