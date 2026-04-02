@@ -159,6 +159,7 @@
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Audit Git repos for secrets.
 - [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide) - Multilingual guide on writing commit messages effectively.
 - [Git with Multiple Email Addresses](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/) - Use multiple email addresses with Git easily.
+- [ec](https://github.com/chojs23/ec) - Terminal Git mergetool with a 3-way TUI
 
 ## 📈 Operations
 
