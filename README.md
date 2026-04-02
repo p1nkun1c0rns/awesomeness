@@ -117,6 +117,7 @@
 - [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for Git commands.
 - [Espanso](https://espanso.org) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [try](https://github.com/tobi/try) - Fresh directories for every vibe
+- [neru](https://github.com/y3owk1n/neru) - Keyboard-driven navigation for macOS
 
 ## 🔒 Security
 
