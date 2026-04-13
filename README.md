@@ -184,6 +184,7 @@
 ## 📦 Package Managers
 
 - [Allaman/werkzeugkasten](https://github.com/Allaman/werkzeugkasten) - Download command-line tools easily.
+- [marcosnils/bin](https://github.com/marcosnils/bin) - A lightweight, cross-platform binary manager that simplifies downloading, installing, and managing binaries without requiring root privileges.
 - [Huber](https://github.com/innobead/huber) - Simplify package management from GitHub projects with live updates.
 - [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
 
